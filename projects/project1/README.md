@@ -53,10 +53,53 @@ Na przygotowanie rozwiązania projektu będą składały się następujące elem
 
 -   raport opisujący wykorzystane metody i wyniki eksperymentów dla obu technik (maksymalnie 4 strony A4),
 -   prezentacja podsumowująca rozwiązanie
--   
+  
 ### Oddanie projektu
 
 Wszystkie punkty z sekcji _Szczegóły rozwiązania_ należy umieścić w katalogu o nazwie `NUMERINDEKSU1_NUMERINDEKSU2` lub `NUMERINDEKSU1_NUMERINDEKSU2_NUMERINDEKSU3`. Tak przygotowany **katalog należy umieścić na repozytorium przedmiotu w folderze `projects/project1`.**
+
+### Zajęcia projektowe i konsultacje
+
+<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 562px"><colgroup>
+<col style="width: 157.2px">
+<col style="width: 405.2px">
+</colgroup>
+<tbody>
+  <tr>
+    <td>Data</td>
+    <td>Temat</td>
+  </tr>
+  <tr>
+    <td>09.10.2024<br></td>
+    <td>Intro to P1</td>
+  </tr>
+  <tr>
+    <td>16.10.2024</td>
+    <td>Konsultacje dotyczące danych</td>
+  </tr>
+  <tr>
+    <td>23.10.2024</td>
+    <td>Konsultacje dotyczące optymalizacji GS, RS, BO</td>
+  </tr>
+  <tr>
+    <td>30.10.2024<br></td>
+    <td>Konsultacje dotyczące optymalizacji GS, RS, BO</td>
+  </tr>
+  <tr>
+    <td>06.11.2024</td>
+    <td>Konsultacje dotyczące analizy wyników</td>
+  </tr>
+  <tr>
+    <td>13.11.2024</td>
+    <td>Konsultacje dotyczące analizy wyników</td>
+  </tr>
+  <tr>
+    <td>20.11.2024</td>
+    <td>Oddanie P1</td>
+  </tr>
+</tbody>
+</table></div>
+
 
 ### Terminy 
 
