@@ -95,7 +95,7 @@ Wszystkie punkty z sekcji _Szczegóły rozwiązania_ należy umieścić w katalo
   </tr>
   <tr>
     <td>20.11.2024</td>
-    <td>Oddanie P1</td>
+    <td>Prezentacje P1</td>
   </tr>
 </tbody>
 </table></div>
