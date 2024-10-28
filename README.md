@@ -18,28 +18,28 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>3/10</td>
     <td>Intro do przedmiotu + GS, RS</td>
     <td>2/10</td>
-    <td>Przypomnienie ML</td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab01">Przypomnienie ML</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>10/10</td>
     <td>Tunability - Bayes</td>
     <td>9/10</td>
-    <td>Pipelines w ML (GS, RS)</td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab01">Pipelines w ML (GS, RS)</a></td>
   </tr>
   <tr>
     <td>3</td>
     <td>17/10</td>
     <td>Artykuł tunabilty I</td>
     <td>16/10</td>
-    <td>HPO Bayes I</td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab03">HPO Bayes I</a></td>
   </tr>
   <tr>
     <td>4</td>
     <td>24/10</td>
     <td>Artykuł tunabilty II + Ensemble I</td>
     <td>23/10</td>
-    <td>HPO Bayes II</td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab03">HPO Bayes II</a></td>
   </tr>
   <tr>
     <td>5</td>
