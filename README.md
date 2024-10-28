@@ -30,21 +30,21 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
   <tr>
     <td>3</td>
     <td>17/10</td>
-    <td>Artykuł tunabilty</td>
+    <td>Artykuł tunabilty I</td>
     <td>16/10</td>
     <td>HPO Bayes I</td>
   </tr>
   <tr>
     <td>4</td>
     <td>24/10</td>
-    <td>Ensemble</td>
+    <td>Artykuł tunabilty II + Ensemble I</td>
     <td>23/10</td>
     <td>HPO Bayes II</td>
   </tr>
   <tr>
     <td>5</td>
     <td>31/10</td>
-    <td>Meta-learning</td>
+    <td>Ensemble II + Meta-learning</td>
     <td>30/10</td>
     <td>Pipelines w ML 2 (stacking)</td>
   </tr>
