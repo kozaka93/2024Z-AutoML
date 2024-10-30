@@ -46,7 +46,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>31/10</td>
     <td>Ensemble II + Meta-learning</td>
     <td>30/10</td>
-    <td>Pipelines w ML 2 (stacking)</td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab05">Pipelines w ML 2 (stacking)</a></td>
   </tr>
   <tr>
     <td>6</td>
