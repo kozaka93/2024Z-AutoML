@@ -53,7 +53,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>7/11</td>
     <td>AutoGluon</td>
     <td>6/11</td>
-    <td></td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab06">AutoGluon</a></td>
   </tr>
   <tr>
     <td>7</td>
