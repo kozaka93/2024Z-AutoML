@@ -60,7 +60,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>21/11</td>
     <td>Autosklearn</td>
     <td>13/11</td>
-    <td>AutoGluon</td>
+    <td></td>
   </tr>
   <tr>
     <td>8</td>
