@@ -44,21 +44,21 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
   <tr>
     <td>5</td>
     <td>31/10</td>
-    <td>Ensemble II + Meta-learning</td>
+    <td>AutoGluon</td>
     <td>30/10</td>
     <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab05">Pipelines w ML 2 (stacking)</a></td>
   </tr>
   <tr>
     <td>6</td>
     <td>7/11</td>
-    <td>AutoGluon</td>
+    <td>Meta-learning</td>
     <td>6/11</td>
     <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab06">AutoGluon</a></td>
   </tr>
   <tr>
     <td>7</td>
     <td>21/11</td>
-    <td>Autosklearn</td>
+    <td>Learning Curves</td>
     <td>13/11</td>
     <td></td>
   </tr>
