@@ -1,3 +1,0 @@
-Params,n_estimators,criterion,bootstrap,max_samples,max_features,min_samples_leaf,mean_AUC
-Package defaults,100,gini,False,,sqrt,1.0,0.8320234375996026
-Our best params,342,log_loss,True,0.9160670889788709,0.505974187008669,0.05127717434336672,0.7929632394204706
