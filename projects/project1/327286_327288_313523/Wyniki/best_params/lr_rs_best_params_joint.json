@@ -1,0 +1,1 @@
+{"C": 0.18690613432669007, "penalty": "elasticnet", "l1_ratio": 0.000493375160044834, "class_weight": "balanced", "max_iter": 1500, "solver": "saga"}
