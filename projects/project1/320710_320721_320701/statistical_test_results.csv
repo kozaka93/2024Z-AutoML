@@ -1,0 +1,37 @@
+Algorytm,Zbiór danych,Technika 1,Technika 2,p-value,Wniosek
+Random Forest,Wine,Grid Search,Random Search,,Test not applicable
+Random Forest,Wine,Grid Search,Bayesian Search,0.5,Brak istotnych różnic między próbkami
+Random Forest,Wine,Random Search,Bayesian Search,0.5,Brak istotnych różnic między próbkami
+Logistic Regression,Wine,Grid Search,Random Search,,Test not applicable
+Logistic Regression,Wine,Grid Search,Bayesian Search,,Test not applicable
+Logistic Regression,Wine,Random Search,Bayesian Search,,Test not applicable
+XGBoost,Wine,Grid Search,Random Search,0.31731050786291415,Brak istotnych różnic między próbkami
+XGBoost,Wine,Grid Search,Bayesian Search,0.5,Brak istotnych różnic między próbkami
+XGBoost,Wine,Random Search,Bayesian Search,0.25,Brak istotnych różnic między próbkami
+Random Forest,Drug,Grid Search,Random Search,0.31731050786291415,Brak istotnych różnic między próbkami
+Random Forest,Drug,Grid Search,Bayesian Search,,Test not applicable
+Random Forest,Drug,Random Search,Bayesian Search,0.31731050786291415,Brak istotnych różnic między próbkami
+Logistic Regression,Drug,Grid Search,Random Search,,Test not applicable
+Logistic Regression,Drug,Grid Search,Bayesian Search,1.0,Brak istotnych różnic między próbkami
+Logistic Regression,Drug,Random Search,Bayesian Search,1.0,Brak istotnych różnic między próbkami
+XGBoost,Drug,Grid Search,Random Search,,Test not applicable
+XGBoost,Drug,Grid Search,Bayesian Search,,Test not applicable
+XGBoost,Drug,Random Search,Bayesian Search,,Test not applicable
+Random Forest,Iris,Grid Search,Random Search,,Test not applicable
+Random Forest,Iris,Grid Search,Bayesian Search,,Test not applicable
+Random Forest,Iris,Random Search,Bayesian Search,,Test not applicable
+Logistic Regression,Iris,Grid Search,Random Search,,Test not applicable
+Logistic Regression,Iris,Grid Search,Bayesian Search,,Test not applicable
+Logistic Regression,Iris,Random Search,Bayesian Search,,Test not applicable
+XGBoost,Iris,Grid Search,Random Search,,Test not applicable
+XGBoost,Iris,Grid Search,Bayesian Search,0.31731050786291415,Brak istotnych różnic między próbkami
+XGBoost,Iris,Random Search,Bayesian Search,0.31731050786291415,Brak istotnych różnic między próbkami
+Random Forest,Titanic,Grid Search,Random Search,0.31731050786291415,Brak istotnych różnic między próbkami
+Random Forest,Titanic,Grid Search,Bayesian Search,0.6547208460185769,Brak istotnych różnic między próbkami
+Random Forest,Titanic,Random Search,Bayesian Search,0.31731050786291415,Brak istotnych różnic między próbkami
+Logistic Regression,Titanic,Grid Search,Random Search,,Test not applicable
+Logistic Regression,Titanic,Grid Search,Bayesian Search,0.6547208460185769,Brak istotnych różnic między próbkami
+Logistic Regression,Titanic,Random Search,Bayesian Search,0.6547208460185769,Brak istotnych różnic między próbkami
+XGBoost,Titanic,Grid Search,Random Search,,Test not applicable
+XGBoost,Titanic,Grid Search,Bayesian Search,0.5,Brak istotnych różnic między próbkami
+XGBoost,Titanic,Random Search,Bayesian Search,0.5,Brak istotnych różnic między próbkami
