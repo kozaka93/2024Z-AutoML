@@ -1,6 +1,3 @@
-[submodule "projects/project1/323538/CS-MINI-2024Z-AutoML_project_1"]
-	path = projects/project1/323538/CS-MINI-2024Z-AutoML_project_1
-	url = https://github.com/SaintAngeLs/CS-MINI-2024Z-AutoML_project_1.git
 [submodule "projects/project1/323538/Kody/CS-MINI-2024Z-AutoML_project_1"]
 	path = projects/project1/323538/Kody/CS-MINI-2024Z-AutoML_project_1
 	url = https://github.com/SaintAngeLs/CS-MINI-2024Z-AutoML_project_1.git
