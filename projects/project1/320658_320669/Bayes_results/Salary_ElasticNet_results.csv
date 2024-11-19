@@ -1,0 +1,11 @@
+Iteracja,R2,Params
+10,0.8803722814617871,"OrderedDict({'model__alpha': 0.837404616717729, 'model__l1_ratio': 1})"
+20,0.880364387588128,"OrderedDict({'model__alpha': 0.00010606901702368386, 'model__l1_ratio': 0})"
+30,0.8803625853313828,"OrderedDict({'model__alpha': 0.00016300481494195204, 'model__l1_ratio': 0})"
+40,0.8803625853313828,"OrderedDict({'model__alpha': 0.00016300481494195204, 'model__l1_ratio': 0})"
+50,0.8803625853313828,"OrderedDict({'model__alpha': 0.00016300481494195204, 'model__l1_ratio': 0})"
+60,0.8803586811588077,"OrderedDict({'model__alpha': 0.0002678885273935284, 'model__l1_ratio': 0})"
+70,0.8803586811588077,"OrderedDict({'model__alpha': 0.0002678885273935284, 'model__l1_ratio': 0})"
+80,0.8803586811588077,"OrderedDict({'model__alpha': 0.0002678885273935284, 'model__l1_ratio': 0})"
+90,0.8803586811588077,"OrderedDict({'model__alpha': 0.0002678885273935284, 'model__l1_ratio': 0})"
+100,0.8803586811588077,"OrderedDict({'model__alpha': 0.0002678885273935284, 'model__l1_ratio': 0})"
