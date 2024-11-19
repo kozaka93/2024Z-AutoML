@@ -1,0 +1,35 @@
+College:
+    - no missing values
+    - 5 categoric values to one-hot encoding
+    - no correlation
+    - will_go_to_college to encode to 1 and 0 (already done in processed csv)
+     
+Penguins:
+    - year out (not necessary)
+    - no missing values
+    - island to one-hot-encode
+    - species to encode to 0 and 1 (already done in processed csv)
+
+Diabetes:
+    - missing values
+    - plas_glucose_concentr - 16 values lower than 70 (5 equal 0) - to change
+    - blood_pressure - 39 values lower than 40 (35 equal 0) - to change
+    - skin_thick - 227 equal 0 - to change
+    - insulin - 374 equal 0 - to change
+    - mass_index - 11 equals 0 - to change
+    - pedigree_fun - okay
+    - class to encode to 0 and 1 (already done in processed csv)
+    - num_pregnant, insulin, pedigree_fun to normal distribution (not necessary)
+
+Credit:
+    - ? - is a missing value (firstly we will change it to NA then input mean) (changing already done in processed csv)
+        - A1
+        - A2 (numeric)
+        - A4
+        - A5
+        - A6
+        - A7
+        - A14
+    - no correlation
+    - columns to normalize: A2, A3, A7, A8, A14 (not necessary)
+    - A16 to encode to 1 and 0 (already done in processed csv)

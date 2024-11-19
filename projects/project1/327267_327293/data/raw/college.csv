@@ -1,0 +1,1001 @@
+type_school,school_accreditation,gender,interest,residence,parent_age,parent_salary,house_area,average_grades,parent_was_in_college,will_go_to_college
+Academic,A,Male,Less Interested,Urban,56,6950000,83.0,84.09,False,True
+Academic,A,Male,Less Interested,Urban,57,4410000,76.8,86.91,False,True
+Academic,B,Female,Very Interested,Urban,50,6500000,80.6,87.43,False,True
+Vocational,B,Male,Very Interested,Rural,49,6600000,78.2,82.12,True,True
+Academic,A,Female,Very Interested,Urban,57,5250000,75.1,86.79,False,False
+Vocational,B,Female,Less Interested,Rural,48,3770000,65.3,86.79,True,False
+Academic,A,Male,Very Interested,Rural,52,6680000,85.5,90.39,True,True
+Academic,B,Male,Very Interested,Rural,53,5890000,83.3,84.65,True,False
+Academic,B,Female,Uncertain,Rural,52,6730000,80.3,88.5,True,True
+Academic,B,Female,Very Interested,Rural,47,3880000,68.0,85.43,True,False
+Vocational,A,Male,Not Interested,Rural,57,5680000,67.1,89.45,True,False
+Vocational,B,Male,Uncertain,Rural,48,5950000,60.7,84.96,True,False
+Vocational,B,Male,Uncertain,Rural,47,6930000,65.4,86.23,True,False
+Academic,B,Male,Very Interested,Rural,53,7130000,88.5,91.92,True,True
+Academic,A,Male,Very Interested,Urban,51,3370000,67.1,84.09,False,False
+Vocational,A,Female,Less Interested,Urban,53,6940000,50.1,89.71,True,True
+Academic,B,Male,Very Interested,Rural,48,3970000,63.5,86.38,True,False
+Vocational,B,Female,Very Interested,Rural,49,6790000,75.9,85.68,True,False
+Vocational,A,Female,Less Interested,Rural,47,7180000,68.3,84.9,False,False
+Vocational,B,Female,Very Interested,Rural,47,4090000,54.5,85.94,True,False
+Vocational,B,Female,Very Interested,Urban,52,6680000,64.5,87.64,True,True
+Academic,B,Female,Interested,Urban,56,2600000,77.5,86.5,True,False
+Academic,A,Female,Very Interested,Urban,51,3900000,57.9,83.18,False,False
+Academic,B,Female,Interested,Urban,60,4250000,58.1,83.99,False,False
+Academic,B,Male,Very Interested,Urban,54,6400000,83.8,88.3,False,True
+Vocational,A,Male,Not Interested,Urban,51,5760000,71.5,83.42,False,True
+Vocational,B,Male,Very Interested,Rural,55,4950000,94.6,85.39,True,False
+Vocational,A,Male,Uncertain,Urban,53,4720000,78.5,82.26,False,True
+Vocational,B,Male,Not Interested,Rural,51,4890000,90.0,87.36,True,False
+Vocational,B,Female,Uncertain,Rural,50,6450000,78.4,85.86,True,False
+Vocational,A,Male,Very Interested,Rural,49,6470000,74.6,86.32,True,True
+Vocational,B,Male,Less Interested,Urban,54,5080000,40.7,82.39,True,False
+Academic,A,Male,Very Interested,Urban,60,3230000,79.6,85.96,False,False
+Academic,B,Male,Less Interested,Rural,52,6130000,76.1,82.7,True,False
+Vocational,A,Female,Very Interested,Rural,52,5700000,102.8,85.31,True,True
+Academic,A,Female,Very Interested,Urban,53,5900000,79.7,88.96,False,True
+Academic,A,Male,Uncertain,Urban,55,6610000,76.1,89.83,False,True
+Vocational,A,Female,Very Interested,Rural,48,5940000,62.4,83.67,True,False
+Academic,A,Male,Less Interested,Urban,54,7310000,54.6,83.57,False,False
+Vocational,B,Female,Not Interested,Rural,53,4660000,80.2,86.73,True,False
+Academic,A,Female,Not Interested,Urban,50,5630000,69.9,80.5,False,True
+Academic,B,Female,Less Interested,Urban,53,3970000,65.6,88.49,True,False
+Vocational,B,Female,Very Interested,Urban,53,5550000,82.9,83.74,True,True
+Vocational,A,Female,Very Interested,Rural,52,6680000,89.2,89.35,True,True
+Vocational,A,Female,Very Interested,Urban,50,5570000,75.8,83.55,False,True
+Academic,A,Male,Uncertain,Urban,50,2660000,64.6,79.92,True,False
+Academic,A,Female,Uncertain,Rural,51,4720000,57.2,84.81,True,False
+Vocational,A,Male,Very Interested,Urban,55,4740000,97.1,90.49,False,True
+Academic,A,Female,Uncertain,Rural,54,7260000,77.1,89.02,True,True
+Vocational,A,Male,Uncertain,Rural,53,5570000,79.7,88.42,False,False
+Vocational,A,Male,Very Interested,Rural,46,7460000,89.7,90.78,True,True
+Vocational,A,Male,Less Interested,Urban,56,6110000,61.6,87.56,False,True
+Vocational,B,Female,Uncertain,Rural,51,5930000,79.8,92.53,True,True
+Academic,B,Female,Less Interested,Urban,51,3850000,57.2,84.37,False,False
+Vocational,B,Male,Uncertain,Rural,51,6540000,87.1,88.19,True,False
+Vocational,A,Male,Very Interested,Urban,55,4880000,88.2,93.05,False,True
+Vocational,A,Male,Uncertain,Rural,55,4590000,75.0,94.03,True,True
+Vocational,A,Male,Uncertain,Rural,47,6390000,70.3,84.25,True,False
+Academic,A,Female,Interested,Urban,46,7610000,59.8,83.17,False,False
+Academic,A,Male,Very Interested,Urban,55,3760000,87.1,91.15,True,True
+Academic,A,Female,Not Interested,Rural,49,6220000,84.0,82.48,True,True
+Academic,B,Male,Less Interested,Rural,49,6210000,82.3,83.72,False,False
+Vocational,A,Male,Not Interested,Urban,51,4800000,66.2,79.17,False,True
+Vocational,A,Female,Very Interested,Rural,48,5840000,79.7,85.51,True,False
+Academic,A,Male,Interested,Urban,55,5610000,82.4,82.49,False,False
+Vocational,A,Male,Less Interested,Urban,54,5620000,68.6,86.0,False,True
+Vocational,B,Male,Uncertain,Rural,52,6300000,77.8,86.73,True,False
+Academic,A,Male,Very Interested,Urban,52,4740000,50.9,84.78,False,False
+Vocational,A,Male,Not Interested,Rural,51,5720000,84.1,86.89,True,True
+Vocational,A,Female,Very Interested,Rural,53,6200000,81.2,89.19,True,True
+Academic,A,Female,Very Interested,Urban,53,5570000,93.5,88.92,False,True
+Vocational,B,Male,Uncertain,Rural,49,6700000,78.9,87.54,True,False
+Academic,B,Female,Very Interested,Rural,47,4100000,60.6,83.24,True,False
+Academic,A,Female,Less Interested,Urban,57,3200000,74.8,84.93,False,False
+Vocational,B,Male,Not Interested,Rural,54,7570000,74.6,93.57,True,True
+Vocational,B,Female,Interested,Urban,55,4200000,51.2,84.02,False,False
+Academic,B,Male,Uncertain,Urban,57,4500000,50.7,80.55,False,True
+Vocational,A,Male,Very Interested,Rural,54,5750000,94.1,88.87,False,True
+Academic,B,Male,Uncertain,Rural,50,8390000,81.4,89.21,True,True
+Academic,A,Male,Very Interested,Urban,52,6550000,79.4,91.17,False,True
+Academic,B,Female,Very Interested,Urban,54,4730000,88.4,82.52,False,False
+Vocational,B,Male,Uncertain,Rural,50,5540000,86.8,85.88,True,False
+Academic,B,Male,Less Interested,Urban,58,5030000,69.9,82.39,False,True
+Vocational,A,Male,Uncertain,Urban,52,5920000,76.0,86.2,False,True
+Academic,A,Female,Interested,Urban,56,3990000,61.0,84.48,False,False
+Vocational,B,Female,Interested,Urban,56,5280000,56.0,88.38,False,False
+Vocational,A,Male,Less Interested,Urban,55,6090000,75.3,89.31,True,True
+Vocational,A,Male,Less Interested,Urban,51,7040000,57.6,87.37,True,True
+Vocational,A,Female,Very Interested,Urban,52,5420000,83.4,83.14,False,True
+Vocational,A,Male,Very Interested,Urban,53,5510000,76.4,83.7,False,True
+Academic,A,Female,Less Interested,Urban,55,4740000,65.0,87.56,False,False
+Vocational,B,Male,Interested,Urban,54,3240000,54.5,81.7,False,False
+Vocational,A,Male,Interested,Urban,60,6650000,96.7,92.76,False,True
+Academic,B,Male,Less Interested,Urban,52,4070000,58.0,85.08,True,False
+Vocational,B,Male,Very Interested,Rural,41,9110000,79.2,91.7,True,True
+Academic,B,Female,Very Interested,Rural,49,7480000,84.1,87.4,True,True
+Vocational,A,Male,Uncertain,Rural,48,5740000,65.2,83.28,False,False
+Vocational,A,Female,Very Interested,Urban,54,6020000,84.3,87.17,True,True
+Academic,B,Female,Very Interested,Rural,51,6460000,87.2,84.75,True,True
+Vocational,A,Male,Uncertain,Rural,52,5610000,104.2,83.73,False,True
+Academic,A,Female,Uncertain,Urban,52,3520000,69.2,82.44,False,False
+Academic,A,Male,Very Interested,Urban,55,3100000,82.5,84.05,False,False
+Vocational,A,Male,Uncertain,Rural,52,5570000,96.9,85.81,False,True
+Academic,A,Female,Less Interested,Rural,51,5050000,74.7,84.28,False,False
+Academic,A,Female,Very Interested,Urban,52,5430000,81.5,90.54,False,True
+Vocational,A,Female,Uncertain,Rural,53,4760000,82.8,85.77,True,False
+Vocational,A,Female,Very Interested,Rural,49,6370000,97.9,85.37,True,True
+Academic,B,Male,Very Interested,Rural,54,5840000,86.7,88.18,True,True
+Academic,A,Male,Less Interested,Urban,59,4370000,73.4,84.01,False,False
+Academic,A,Male,Interested,Urban,57,6090000,34.0,83.5,False,False
+Vocational,A,Male,Uncertain,Rural,51,5200000,74.7,86.62,True,False
+Academic,B,Female,Less Interested,Urban,52,2960000,79.4,86.99,True,False
+Academic,B,Male,Less Interested,Rural,52,8160000,75.9,93.55,True,True
+Vocational,B,Female,Interested,Urban,52,4540000,45.9,84.98,True,False
+Academic,B,Female,Very Interested,Rural,49,7790000,80.2,87.53,True,True
+Vocational,A,Male,Less Interested,Rural,43,7510000,60.5,84.64,False,False
+Vocational,A,Male,Uncertain,Rural,50,6030000,75.9,86.34,False,False
+Academic,A,Male,Very Interested,Rural,53,4260000,76.2,89.55,False,False
+Vocational,B,Female,Less Interested,Urban,60,4720000,77.6,83.62,False,True
+Vocational,B,Male,Not Interested,Rural,55,2920000,82.5,85.43,True,False
+Vocational,B,Female,Interested,Urban,49,4150000,46.1,81.91,True,False
+Academic,B,Male,Uncertain,Rural,48,7700000,67.0,88.34,True,True
+Academic,B,Female,Very Interested,Rural,52,6710000,77.8,88.17,True,True
+Vocational,B,Female,Not Interested,Rural,46,6650000,77.7,83.72,True,True
+Academic,B,Female,Less Interested,Urban,56,6990000,67.5,89.74,True,True
+Academic,A,Female,Less Interested,Urban,54,5230000,49.8,82.32,False,False
+Academic,B,Male,Not Interested,Rural,46,7200000,76.0,92.99,True,True
+Academic,B,Male,Less Interested,Urban,50,3430000,59.1,84.1,False,False
+Vocational,B,Male,Not Interested,Rural,50,4850000,71.6,93.53,True,True
+Academic,B,Male,Less Interested,Urban,53,3510000,70.5,85.29,True,False
+Vocational,B,Female,Very Interested,Rural,55,5650000,73.0,84.81,False,False
+Academic,A,Female,Uncertain,Rural,46,2780000,62.0,79.02,True,False
+Vocational,B,Male,Uncertain,Rural,53,6380000,89.6,88.18,True,True
+Vocational,B,Male,Interested,Rural,50,5070000,49.3,85.72,True,False
+Academic,B,Female,Uncertain,Rural,50,4410000,90.6,96.56,True,True
+Vocational,B,Male,Uncertain,Rural,49,4190000,87.2,83.54,True,False
+Academic,B,Female,Very Interested,Urban,53,4930000,89.1,92.08,True,True
+Academic,A,Female,Very Interested,Urban,49,4100000,58.4,83.16,False,False
+Academic,A,Female,Less Interested,Urban,53,4510000,52.6,81.87,False,False
+Academic,A,Male,Interested,Urban,53,3320000,63.4,83.62,False,False
+Vocational,A,Male,Very Interested,Rural,54,5890000,85.6,88.55,False,True
+Academic,A,Female,Interested,Urban,58,4950000,50.4,83.52,False,False
+Vocational,A,Male,Less Interested,Rural,48,8120000,68.8,82.45,False,False
+Academic,A,Female,Uncertain,Rural,47,6360000,84.5,82.23,True,True
+Vocational,B,Female,Uncertain,Rural,53,3980000,80.5,84.13,True,False
+Academic,B,Male,Very Interested,Rural,50,6460000,79.3,86.48,True,True
+Vocational,A,Female,Uncertain,Rural,49,5710000,74.3,82.02,True,True
+Academic,B,Female,Less Interested,Urban,56,5670000,75.3,83.71,False,False
+Vocational,B,Female,Uncertain,Rural,42,8080000,83.0,89.39,True,True
+Academic,B,Female,Less Interested,Urban,49,4840000,54.9,85.81,True,False
+Academic,B,Female,Uncertain,Rural,48,5020000,88.0,92.47,True,True
+Vocational,B,Female,Uncertain,Rural,46,7080000,46.3,84.33,True,True
+Academic,B,Female,Very Interested,Urban,58,5390000,74.9,86.92,False,True
+Academic,B,Female,Uncertain,Rural,52,4890000,109.1,80.65,True,True
+Vocational,B,Male,Uncertain,Rural,55,3610000,79.0,83.12,True,False
+Vocational,A,Female,Very Interested,Rural,49,6750000,77.4,86.38,True,True
+Vocational,A,Male,Uncertain,Urban,56,3970000,84.7,86.49,False,False
+Vocational,B,Female,Uncertain,Rural,52,4150000,78.3,84.49,True,False
+Academic,A,Female,Less Interested,Urban,55,6960000,78.5,83.84,False,False
+Vocational,B,Female,Interested,Urban,54,3680000,51.7,85.09,True,False
+Vocational,B,Male,Uncertain,Rural,54,4640000,84.3,92.8,True,True
+Academic,B,Male,Very Interested,Urban,52,6750000,90.1,86.23,False,True
+Academic,A,Male,Less Interested,Urban,54,3650000,76.4,87.09,False,False
+Academic,A,Female,Very Interested,Urban,56,3700000,72.7,85.14,False,False
+Academic,B,Male,Not Interested,Rural,49,7570000,62.3,89.95,True,True
+Academic,B,Male,Uncertain,Urban,53,6160000,80.8,91.16,True,True
+Vocational,B,Female,Uncertain,Rural,54,4840000,84.6,86.15,True,False
+Academic,A,Female,Very Interested,Urban,59,2910000,79.6,85.24,False,False
+Vocational,A,Female,Less Interested,Rural,49,5920000,100.2,83.94,True,True
+Academic,B,Female,Less Interested,Urban,50,3360000,63.5,84.98,True,False
+Vocational,A,Male,Uncertain,Urban,55,5610000,65.0,88.23,False,True
+Academic,B,Female,Not Interested,Rural,50,8290000,67.4,89.16,True,True
+Academic,A,Male,Very Interested,Urban,60,1830000,75.9,81.19,False,False
+Vocational,B,Male,Less Interested,Rural,50,6680000,87.9,86.56,True,True
+Academic,A,Male,Less Interested,Urban,53,4180000,69.3,80.96,False,False
+Academic,B,Male,Very Interested,Rural,49,3770000,66.7,85.93,True,False
+Vocational,A,Male,Very Interested,Rural,52,6140000,86.3,87.28,False,True
+Academic,B,Female,Uncertain,Rural,52,5340000,85.2,95.1,True,True
+Academic,A,Female,Less Interested,Urban,51,4720000,104.5,87.24,False,True
+Vocational,A,Male,Uncertain,Rural,52,5720000,55.0,85.31,True,False
+Academic,A,Female,Less Interested,Urban,53,5310000,72.3,81.04,False,False
+Academic,A,Male,Very Interested,Urban,51,7430000,74.3,88.84,False,True
+Vocational,B,Male,Uncertain,Rural,55,4830000,83.3,87.3,True,False
+Academic,B,Female,Uncertain,Rural,50,5690000,75.2,91.47,True,True
+Academic,A,Female,Less Interested,Rural,44,5410000,36.6,83.48,False,False
+Vocational,B,Female,Uncertain,Rural,54,5490000,81.3,91.27,True,True
+Vocational,A,Male,Not Interested,Urban,55,3660000,77.5,78.59,False,True
+Academic,A,Female,Less Interested,Urban,53,5110000,68.2,82.67,False,False
+Vocational,B,Male,Very Interested,Urban,53,5690000,66.4,86.53,True,True
+Academic,B,Female,Very Interested,Rural,54,6160000,120.0,88.98,True,True
+Academic,B,Female,Less Interested,Rural,54,4550000,65.8,84.97,True,False
+Vocational,B,Female,Uncertain,Rural,47,6130000,81.5,84.88,True,False
+Vocational,A,Male,Uncertain,Rural,52,5620000,74.9,85.15,False,False
+Academic,B,Male,Very Interested,Urban,55,5250000,80.7,83.89,False,False
+Vocational,B,Female,Uncertain,Rural,54,3700000,99.6,83.5,True,False
+Academic,A,Male,Interested,Urban,55,5120000,49.7,85.73,False,False
+Vocational,A,Male,Very Interested,Rural,47,6200000,75.3,82.35,True,True
+Vocational,B,Female,Not Interested,Rural,53,4340000,87.5,85.56,True,False
+Academic,B,Male,Uncertain,Rural,55,5530000,112.5,88.51,True,True
+Academic,B,Male,Interested,Urban,53,4100000,54.0,84.9,False,False
+Vocational,A,Male,Uncertain,Urban,56,5580000,65.2,85.96,False,True
+Academic,A,Female,Less Interested,Urban,58,5370000,72.3,84.78,False,False
+Academic,B,Female,Very Interested,Rural,54,5790000,94.9,86.6,True,True
+Academic,A,Male,Interested,Urban,56,5280000,65.6,88.94,False,False
+Academic,A,Male,Very Interested,Urban,51,4440000,59.3,84.45,False,False
+Academic,A,Male,Uncertain,Urban,54,4940000,100.1,83.52,False,True
+Academic,A,Male,Less Interested,Urban,59,3720000,60.7,84.44,False,False
+Vocational,B,Female,Very Interested,Rural,46,5920000,90.3,81.98,True,False
+Academic,A,Male,Very Interested,Urban,53,4840000,87.7,89.03,False,True
+Vocational,A,Female,Very Interested,Rural,50,5470000,67.2,80.9,False,False
+Vocational,B,Male,Less Interested,Rural,48,7640000,64.2,86.93,True,True
+Vocational,B,Male,Uncertain,Rural,49,5810000,89.5,87.68,True,False
+Vocational,B,Male,Uncertain,Rural,48,6280000,72.4,85.15,True,False
+Vocational,A,Female,Very Interested,Urban,54,6010000,80.1,87.39,False,True
+Vocational,A,Female,Uncertain,Urban,56,4250000,75.9,84.35,False,False
+Academic,A,Female,Very Interested,Urban,52,5320000,65.7,85.39,False,True
+Academic,A,Male,Less Interested,Urban,54,7260000,92.8,89.07,False,True
+Academic,B,Male,Very Interested,Urban,51,4970000,87.8,89.41,True,True
+Vocational,B,Female,Not Interested,Rural,50,3010000,76.7,82.93,True,False
+Academic,A,Female,Very Interested,Urban,52,8020000,68.5,83.64,False,True
+Academic,B,Female,Uncertain,Urban,64,3860000,86.1,85.28,False,True
+Academic,A,Female,Very Interested,Urban,52,5980000,72.0,87.66,False,True
+Academic,A,Male,Very Interested,Urban,57,6540000,60.1,85.58,False,False
+Vocational,B,Female,Uncertain,Urban,50,7550000,75.6,89.39,False,True
+Vocational,A,Female,Uncertain,Urban,53,4330000,63.3,91.09,False,True
+Academic,B,Male,Uncertain,Urban,51,4170000,83.8,90.96,True,True
+Academic,B,Female,Uncertain,Urban,53,5730000,86.5,83.84,True,True
+Academic,B,Male,Uncertain,Urban,48,6090000,68.7,90.83,True,True
+Academic,B,Female,Very Interested,Rural,53,6140000,79.7,92.76,True,True
+Vocational,A,Male,Uncertain,Rural,51,6040000,71.9,88.74,True,True
+Vocational,B,Female,Uncertain,Urban,54,6580000,66.2,88.54,True,True
+Vocational,B,Male,Not Interested,Urban,53,5190000,59.9,92.69,True,True
+Academic,B,Male,Uncertain,Urban,53,6150000,83.9,91.02,True,True
+Academic,A,Male,Uncertain,Rural,51,3510000,78.3,83.9,True,False
+Academic,B,Female,Uncertain,Urban,52,8080000,67.8,87.39,False,True
+Vocational,B,Male,Uncertain,Urban,58,4540000,63.6,84.63,False,False
+Academic,B,Male,Less Interested,Urban,56,4560000,64.1,87.81,False,False
+Vocational,B,Female,Not Interested,Rural,52,8400000,76.1,91.53,True,True
+Academic,B,Female,Very Interested,Rural,52,7960000,88.2,93.35,True,True
+Academic,A,Male,Less Interested,Urban,57,3830000,89.3,84.92,False,True
+Vocational,A,Female,Less Interested,Urban,55,5110000,99.3,86.1,False,True
+Vocational,A,Male,Interested,Urban,52,5230000,33.4,81.13,False,False
+Vocational,B,Female,Uncertain,Rural,50,6290000,91.3,87.52,True,False
+Academic,A,Female,Less Interested,Rural,51,5350000,47.4,82.61,True,False
+Academic,B,Female,Very Interested,Urban,54,6570000,83.3,89.42,False,True
+Vocational,A,Male,Very Interested,Urban,53,6410000,74.8,85.65,False,True
+Academic,B,Female,Uncertain,Rural,48,6750000,91.0,85.01,True,True
+Academic,B,Male,Uncertain,Urban,52,6200000,67.8,88.72,True,True
+Academic,B,Male,Uncertain,Rural,50,2810000,80.5,85.62,True,False
+Vocational,B,Male,Less Interested,Urban,56,5550000,91.3,86.02,False,True
+Vocational,A,Female,Less Interested,Urban,61,4230000,81.5,84.39,False,True
+Vocational,B,Male,Interested,Urban,50,4160000,47.5,81.8,True,False
+Academic,B,Male,Uncertain,Rural,50,7880000,93.0,96.1,True,True
+Academic,B,Female,Very Interested,Urban,56,6070000,71.3,86.86,False,True
+Academic,A,Male,Not Interested,Rural,49,2600000,100.8,88.86,True,False
+Academic,B,Female,Less Interested,Urban,46,2730000,62.4,83.08,True,False
+Academic,A,Male,Interested,Urban,52,4920000,41.8,81.64,False,False
+Vocational,B,Female,Less Interested,Rural,54,6160000,103.5,88.91,True,True
+Vocational,A,Female,Uncertain,Rural,43,7090000,59.5,84.19,True,False
+Academic,B,Male,Very Interested,Urban,54,6060000,86.3,86.55,True,True
+Vocational,A,Male,Very Interested,Urban,58,4410000,80.7,85.44,False,True
+Academic,A,Male,Less Interested,Urban,53,3340000,86.1,90.01,False,True
+Vocational,B,Male,Uncertain,Rural,48,5280000,78.8,82.24,True,False
+Vocational,B,Female,Interested,Urban,50,5680000,20.4,80.57,True,False
+Academic,B,Male,Less Interested,Urban,53,6140000,76.2,84.33,False,False
+Academic,B,Female,Uncertain,Urban,50,2160000,78.4,83.17,True,False
+Academic,A,Male,Less Interested,Urban,57,3040000,72.3,84.79,False,False
+Academic,B,Female,Not Interested,Rural,49,6340000,77.3,92.68,True,True
+Vocational,A,Male,Very Interested,Urban,54,5510000,58.2,84.89,False,True
+Vocational,A,Male,Uncertain,Rural,49,6680000,79.3,87.67,True,True
+Academic,A,Male,Uncertain,Rural,47,3040000,85.3,85.93,True,False
+Academic,A,Female,Uncertain,Urban,52,5040000,65.5,88.37,True,True
+Academic,B,Female,Uncertain,Rural,48,6710000,90.7,85.78,True,True
+Academic,A,Female,Interested,Urban,54,5370000,38.0,82.7,False,False
+Academic,B,Male,Uncertain,Rural,52,5060000,87.3,93.89,True,True
+Academic,B,Female,Very Interested,Rural,46,3780000,68.6,89.13,True,False
+Academic,B,Female,Uncertain,Rural,50,7230000,93.8,89.53,True,True
+Vocational,B,Female,Less Interested,Urban,53,6210000,84.3,85.94,True,True
+Academic,B,Female,Very Interested,Rural,49,7900000,75.8,90.67,True,True
+Academic,A,Female,Less Interested,Urban,56,4120000,67.0,86.6,False,False
+Vocational,A,Female,Uncertain,Rural,52,5860000,68.9,89.04,True,True
+Academic,A,Female,Less Interested,Rural,51,4760000,87.1,82.36,False,False
+Academic,A,Male,Less Interested,Urban,57,2940000,79.7,82.57,False,False
+Academic,B,Male,Less Interested,Urban,50,3230000,64.8,86.02,True,False
+Academic,B,Male,Very Interested,Urban,50,6740000,71.2,87.64,False,True
+Academic,A,Male,Less Interested,Rural,53,5680000,81.3,84.25,False,False
+Academic,B,Male,Less Interested,Urban,55,1660000,92.1,88.26,False,False
+Academic,B,Female,Less Interested,Urban,54,3210000,106.9,92.85,False,True
+Academic,A,Male,Less Interested,Rural,52,5720000,81.7,83.88,False,False
+Academic,B,Male,Very Interested,Rural,52,6720000,89.8,88.78,True,True
+Academic,A,Female,Uncertain,Urban,58,5060000,62.1,88.85,False,False
+Academic,A,Female,Less Interested,Urban,52,3320000,64.6,82.33,False,False
+Academic,B,Male,Interested,Urban,60,3540000,64.7,83.03,False,False
+Vocational,B,Male,Interested,Urban,52,5290000,41.7,86.38,False,False
+Academic,B,Male,Very Interested,Rural,49,7710000,92.3,90.4,True,True
+Vocational,B,Male,Uncertain,Urban,55,4730000,69.5,83.84,False,False
+Vocational,A,Female,Uncertain,Rural,50,6630000,98.5,89.28,True,True
+Vocational,B,Male,Interested,Urban,51,4020000,62.8,88.1,True,False
+Vocational,A,Female,Less Interested,Rural,44,8370000,65.3,83.54,False,False
+Academic,A,Female,Uncertain,Rural,53,5660000,76.9,89.97,False,True
+Academic,A,Male,Very Interested,Rural,51,5460000,80.6,85.23,False,False
+Academic,A,Male,Interested,Urban,54,5670000,65.4,81.76,False,False
+Academic,A,Female,Less Interested,Urban,46,4980000,47.8,84.72,False,False
+Academic,B,Male,Uncertain,Rural,49,6910000,84.6,91.38,True,True
+Academic,A,Female,Uncertain,Urban,51,5550000,68.2,87.61,False,True
+Vocational,B,Female,Not Interested,Rural,49,5520000,65.3,87.58,True,True
+Academic,B,Male,Uncertain,Rural,48,7310000,105.5,87.66,True,True
+Academic,A,Female,Uncertain,Rural,53,5390000,47.1,81.0,True,False
+Academic,A,Male,Very Interested,Rural,47,5840000,90.2,86.36,True,False
+Vocational,B,Female,Not Interested,Rural,55,4450000,77.4,84.93,True,False
+Academic,B,Female,Very Interested,Rural,48,3440000,58.3,84.07,True,False
+Academic,A,Female,Very Interested,Urban,53,3310000,66.6,83.14,False,False
+Vocational,B,Female,Not Interested,Rural,53,4110000,73.2,85.7,True,False
+Academic,A,Female,Very Interested,Urban,56,3380000,69.1,84.06,False,False
+Vocational,A,Male,Less Interested,Urban,54,6530000,66.6,89.2,False,True
+Academic,B,Male,Very Interested,Urban,54,4120000,80.8,92.07,False,True
+Vocational,B,Male,Very Interested,Rural,51,5310000,70.9,83.42,True,False
+Academic,A,Male,Less Interested,Urban,55,4880000,95.1,90.47,False,True
+Academic,B,Female,Less Interested,Urban,55,5780000,85.1,85.9,True,True
+Vocational,A,Female,Interested,Urban,47,6410000,20.0,81.46,False,False
+Vocational,A,Male,Very Interested,Urban,59,3800000,66.6,82.98,False,False
+Academic,A,Male,Interested,Urban,60,3860000,70.5,84.83,False,False
+Academic,A,Female,Very Interested,Urban,56,3390000,80.5,84.04,False,False
+Academic,B,Male,Less Interested,Rural,47,5100000,40.6,82.32,True,False
+Vocational,A,Female,Uncertain,Rural,50,6920000,91.5,90.79,True,True
+Academic,B,Female,Very Interested,Urban,55,2920000,67.0,82.93,True,False
+Academic,B,Male,Less Interested,Rural,46,4010000,58.5,84.11,True,False
+Academic,A,Female,Very Interested,Urban,53,4510000,66.7,87.71,False,False
+Vocational,A,Male,Less Interested,Rural,48,5750000,66.9,82.11,False,False
+Academic,B,Female,Very Interested,Urban,54,5250000,69.6,84.81,True,True
+Vocational,A,Male,Very Interested,Urban,53,4360000,75.2,83.29,False,False
+Vocational,A,Female,Very Interested,Rural,51,5940000,62.8,82.23,False,False
+Academic,B,Female,Less Interested,Urban,52,3640000,59.4,84.59,True,False
+Vocational,B,Male,Interested,Urban,58,5060000,48.4,86.75,False,False
+Academic,B,Female,Very Interested,Urban,54,5560000,79.9,83.41,True,True
+Academic,A,Male,Uncertain,Rural,54,8650000,76.7,90.03,True,True
+Academic,B,Female,Less Interested,Rural,40,3810000,44.7,81.0,True,False
+Vocational,B,Male,Uncertain,Rural,52,6450000,65.1,86.14,True,False
+Academic,A,Male,Not Interested,Rural,53,5810000,107.1,88.37,True,True
+Academic,B,Female,Uncertain,Rural,50,6250000,79.9,90.96,True,True
+Vocational,A,Female,Uncertain,Urban,52,4740000,76.0,79.11,False,True
+Academic,A,Female,Less Interested,Urban,52,3260000,57.1,80.26,False,False
+Academic,A,Male,Less Interested,Urban,50,4660000,51.1,85.87,False,False
+Vocational,A,Male,Very Interested,Rural,51,5140000,67.6,83.26,False,False
+Vocational,B,Male,Uncertain,Rural,52,6230000,84.4,86.39,True,False
+Academic,B,Male,Less Interested,Urban,46,3800000,57.4,84.84,True,False
+Academic,B,Female,Uncertain,Rural,51,5630000,93.5,85.19,True,True
+Academic,B,Female,Very Interested,Urban,55,6340000,91.6,90.95,False,True
+Academic,A,Male,Less Interested,Urban,51,4860000,54.3,84.33,False,False
+Academic,B,Female,Very Interested,Urban,54,7570000,71.3,88.33,True,True
+Academic,B,Female,Very Interested,Rural,51,5950000,86.2,88.76,True,True
+Vocational,A,Female,Not Interested,Urban,52,5240000,60.2,91.2,True,True
+Vocational,B,Female,Not Interested,Rural,52,5480000,56.1,90.51,True,True
+Vocational,B,Female,Very Interested,Rural,43,6800000,76.2,82.62,True,False
+Academic,B,Male,Less Interested,Urban,55,6490000,72.5,84.22,False,False
+Academic,A,Female,Less Interested,Urban,47,4600000,52.7,83.92,True,False
+Academic,B,Female,Very Interested,Rural,52,5500000,97.7,85.13,True,True
+Academic,A,Male,Very Interested,Urban,57,6690000,89.8,89.87,False,True
+Academic,B,Male,Uncertain,Rural,52,5090000,96.2,82.28,True,True
+Academic,B,Female,Very Interested,Rural,46,3470000,61.2,83.73,True,False
+Academic,A,Female,Less Interested,Urban,50,6840000,53.5,81.78,False,False
+Vocational,B,Male,Less Interested,Rural,48,4640000,51.7,85.14,True,False
+Academic,A,Female,Uncertain,Urban,50,5580000,62.4,89.9,False,True
+Vocational,B,Female,Uncertain,Rural,49,6740000,81.5,89.87,True,False
+Academic,A,Female,Uncertain,Rural,52,6450000,82.3,88.27,True,True
+Academic,B,Female,Very Interested,Rural,43,3800000,48.5,79.1,True,False
+Vocational,A,Female,Very Interested,Rural,50,6400000,81.3,85.36,False,True
+Academic,A,Female,Less Interested,Urban,50,4640000,50.8,83.92,False,False
+Academic,A,Female,Less Interested,Rural,46,5570000,35.2,82.31,False,False
+Academic,B,Male,Not Interested,Urban,56,6090000,75.8,85.13,False,True
+Academic,B,Female,Less Interested,Urban,57,3070000,75.8,85.02,False,False
+Academic,A,Male,Less Interested,Urban,57,3370000,71.6,84.67,False,False
+Academic,B,Male,Less Interested,Urban,59,5170000,83.4,87.65,False,True
+Academic,A,Female,Less Interested,Urban,54,5920000,88.2,83.23,False,True
+Academic,A,Male,Very Interested,Urban,51,7320000,77.6,86.81,False,True
+Academic,A,Male,Less Interested,Urban,51,6670000,71.6,85.12,False,False
+Academic,A,Male,Uncertain,Urban,55,2450000,86.4,85.18,False,False
+Vocational,B,Female,Not Interested,Rural,50,4740000,96.9,84.93,True,False
+Vocational,B,Female,Interested,Urban,53,5370000,38.1,82.5,False,False
+Academic,A,Female,Very Interested,Urban,54,4590000,79.5,89.54,False,True
+Academic,B,Male,Very Interested,Rural,51,7310000,90.8,91.89,True,True
+Academic,A,Female,Less Interested,Urban,53,3890000,56.7,83.25,False,False
+Academic,B,Female,Very Interested,Rural,50,3440000,76.4,88.65,True,False
+Academic,B,Male,Not Interested,Urban,55,5010000,86.3,82.13,False,True
+Academic,B,Male,Less Interested,Urban,53,3460000,71.8,84.48,True,False
+Academic,B,Male,Very Interested,Rural,52,6370000,89.4,85.48,True,True
+Academic,B,Female,Very Interested,Urban,55,5770000,74.3,84.29,False,False
+Academic,A,Female,Not Interested,Urban,59,4390000,115.7,87.16,False,True
+Vocational,A,Female,Less Interested,Rural,49,6900000,68.4,86.93,True,True
+Vocational,B,Male,Not Interested,Rural,55,3030000,103.4,89.26,True,False
+Academic,B,Male,Uncertain,Rural,51,7120000,105.9,88.74,True,True
+Academic,B,Male,Very Interested,Urban,58,5280000,78.0,85.84,False,True
+Vocational,A,Female,Uncertain,Urban,48,5870000,56.5,82.11,False,False
+Academic,B,Female,Less Interested,Urban,50,3540000,58.8,82.63,True,False
+Academic,B,Female,Very Interested,Rural,49,3340000,64.3,83.59,True,False
+Academic,A,Male,Interested,Urban,58,5520000,64.0,80.75,False,False
+Vocational,B,Female,Very Interested,Rural,51,5010000,78.7,84.11,False,False
+Vocational,A,Female,Uncertain,Rural,50,6740000,80.4,87.52,True,True
+Academic,A,Female,Very Interested,Urban,51,5480000,77.3,90.4,False,True
+Academic,A,Male,Uncertain,Rural,43,4160000,63.5,87.68,True,False
+Vocational,B,Male,Interested,Urban,53,4480000,52.5,84.74,True,False
+Academic,B,Female,Interested,Urban,56,3090000,69.4,84.66,False,False
+Academic,A,Male,Uncertain,Rural,50,6530000,100.1,87.42,True,True
+Academic,A,Male,Interested,Urban,54,4350000,55.2,85.68,False,False
+Vocational,A,Male,Interested,Rural,47,8380000,81.2,93.07,True,True
+Vocational,A,Male,Very Interested,Urban,54,5920000,69.3,84.33,False,True
+Vocational,B,Female,Less Interested,Urban,53,6110000,75.6,85.84,True,True
+Academic,B,Male,Uncertain,Rural,51,5770000,78.0,94.06,True,True
+Academic,A,Female,Very Interested,Urban,55,4650000,74.9,83.64,False,False
+Academic,B,Male,Interested,Urban,49,5040000,35.7,83.21,False,False
+Academic,B,Male,Very Interested,Rural,52,4160000,58.6,81.94,True,False
+Vocational,B,Male,Very Interested,Urban,56,6040000,75.6,87.46,True,True
+Academic,A,Female,Less Interested,Urban,52,3920000,91.1,91.63,False,True
+Academic,B,Female,Less Interested,Urban,58,3020000,81.2,78.92,True,False
+Vocational,A,Male,Very Interested,Urban,50,5810000,59.1,82.48,False,False
+Vocational,A,Female,Not Interested,Rural,55,4330000,68.5,84.91,False,False
+Vocational,B,Male,Not Interested,Rural,53,3680000,85.9,85.63,True,False
+Vocational,B,Female,Very Interested,Rural,51,6440000,114.8,86.6,True,True
+Vocational,B,Female,Not Interested,Rural,53,6040000,74.9,86.66,True,False
+Academic,A,Male,Less Interested,Urban,53,3110000,73.1,84.01,False,False
+Vocational,A,Male,Interested,Urban,50,6610000,62.4,87.01,True,True
+Vocational,A,Female,Uncertain,Rural,48,6190000,68.0,84.57,True,False
+Academic,B,Male,Very Interested,Urban,56,3260000,62.1,84.42,False,False
+Vocational,B,Male,Uncertain,Rural,55,4660000,82.4,84.77,True,False
+Vocational,A,Female,Less Interested,Urban,58,5570000,51.1,85.81,False,True
+Academic,A,Female,Less Interested,Urban,57,4420000,60.6,85.23,False,False
+Vocational,B,Female,Uncertain,Rural,48,6180000,76.0,86.11,True,False
+Academic,A,Male,Less Interested,Urban,56,5360000,86.3,84.78,False,False
+Academic,A,Male,Uncertain,Rural,55,3830000,77.5,86.68,True,False
+Academic,A,Male,Interested,Urban,54,6860000,74.9,84.0,False,False
+Academic,B,Female,Uncertain,Rural,48,4260000,75.9,90.31,True,True
+Academic,A,Male,Less Interested,Urban,51,9410000,76.2,83.7,False,True
+Academic,B,Female,Less Interested,Rural,44,3280000,62.8,82.58,True,False
+Academic,B,Male,Interested,Urban,57,3740000,63.0,85.23,False,False
+Academic,B,Male,Interested,Urban,55,4060000,62.2,85.61,True,False
+Academic,A,Female,Very Interested,Urban,47,3940000,52.2,83.41,False,False
+Academic,A,Female,Less Interested,Urban,53,6690000,91.3,85.33,False,True
+Vocational,B,Female,Uncertain,Rural,47,5910000,99.7,86.18,True,False
+Academic,A,Male,Less Interested,Urban,54,4180000,64.4,84.04,False,False
+Academic,A,Male,Very Interested,Rural,52,5720000,40.6,80.73,True,False
+Vocational,A,Male,Uncertain,Rural,53,5540000,96.0,85.39,True,True
+Academic,B,Male,Uncertain,Rural,49,6290000,84.9,91.82,True,True
+Academic,A,Male,Very Interested,Urban,59,1790000,90.5,81.65,False,False
+Academic,A,Female,Very Interested,Urban,57,2740000,89.8,83.56,False,False
+Academic,B,Male,Less Interested,Rural,54,5290000,89.3,84.72,True,False
+Academic,B,Female,Uncertain,Rural,47,6650000,94.4,85.79,True,True
+Academic,B,Male,Not Interested,Rural,50,4910000,76.2,93.01,True,True
+Vocational,B,Female,Uncertain,Rural,47,6610000,87.9,89.52,True,False
+Academic,B,Female,Less Interested,Urban,52,4090000,63.1,85.45,True,False
+Academic,B,Male,Very Interested,Rural,53,7300000,95.9,89.42,False,True
+Vocational,B,Male,Interested,Rural,51,7220000,82.3,88.19,True,True
+Vocational,A,Male,Very Interested,Rural,51,6480000,96.7,88.35,True,True
+Academic,B,Female,Uncertain,Rural,51,5040000,91.0,96.72,True,True
+Vocational,A,Male,Very Interested,Urban,53,4530000,67.0,82.13,False,False
+Vocational,A,Male,Very Interested,Urban,49,5530000,57.1,80.05,False,False
+Academic,A,Female,Very Interested,Urban,53,8430000,81.0,84.3,False,True
+Academic,B,Male,Very Interested,Rural,52,5810000,87.8,86.72,True,False
+Academic,A,Male,Interested,Urban,51,5340000,46.9,86.66,False,False
+Vocational,A,Male,Very Interested,Urban,54,5780000,69.3,85.34,False,True
+Academic,A,Female,Less Interested,Urban,52,10000000,87.6,83.67,False,True
+Academic,B,Male,Uncertain,Rural,51,6120000,79.0,89.63,True,True
+Academic,A,Female,Interested,Urban,58,4640000,57.0,86.6,False,False
+Vocational,A,Female,Less Interested,Urban,59,4700000,101.1,84.08,False,True
+Vocational,A,Male,Very Interested,Rural,49,6580000,76.7,86.71,True,False
+Academic,A,Female,Very Interested,Urban,51,7320000,82.5,86.47,False,True
+Vocational,A,Male,Uncertain,Rural,50,6670000,52.8,86.59,True,True
+Vocational,A,Male,Very Interested,Rural,50,6020000,94.4,87.2,True,True
+Academic,A,Male,Very Interested,Urban,52,1770000,78.1,83.79,False,False
+Academic,A,Male,Very Interested,Urban,53,7160000,83.3,87.5,False,True
+Academic,A,Female,Less Interested,Urban,51,2820000,64.6,83.18,False,False
+Academic,A,Female,Very Interested,Urban,53,6680000,64.6,85.23,False,True
+Vocational,A,Female,Less Interested,Rural,46,7790000,67.7,87.27,True,True
+Academic,A,Male,Less Interested,Urban,54,8280000,77.7,81.12,False,True
+Vocational,B,Male,Interested,Urban,54,5480000,22.9,80.73,True,False
+Vocational,A,Female,Not Interested,Rural,52,4970000,76.4,87.5,True,False
+Academic,B,Female,Interested,Urban,52,4680000,40.8,82.88,False,False
+Academic,B,Female,Uncertain,Urban,52,5730000,77.0,89.97,True,True
+Vocational,B,Female,Uncertain,Rural,45,7400000,70.7,84.56,True,False
+Academic,B,Female,Less Interested,Urban,52,2940000,80.4,85.5,True,False
+Academic,A,Male,Uncertain,Rural,48,4070000,59.4,80.69,False,False
+Vocational,B,Female,Uncertain,Rural,55,4850000,73.5,84.12,True,False
+Academic,B,Male,Uncertain,Rural,47,7130000,79.3,88.35,True,True
+Academic,B,Female,Very Interested,Urban,48,3180000,59.5,81.86,True,False
+Academic,A,Female,Uncertain,Rural,49,6200000,74.8,89.14,True,True
+Academic,B,Male,Less Interested,Urban,58,4290000,67.3,85.2,True,False
+Academic,B,Male,Interested,Urban,52,3450000,63.7,84.51,False,False
+Academic,A,Male,Interested,Urban,53,4110000,60.2,84.3,False,False
+Vocational,B,Male,Interested,Urban,56,4540000,49.8,84.56,False,False
+Vocational,B,Male,Very Interested,Rural,52,6210000,77.2,85.91,True,False
+Academic,B,Male,Not Interested,Rural,51,5350000,85.1,83.3,True,True
+Academic,B,Female,Not Interested,Rural,48,6090000,74.4,95.81,True,True
+Academic,B,Male,Uncertain,Rural,52,5940000,91.7,84.85,True,True
+Academic,B,Female,Very Interested,Rural,50,7540000,96.5,91.84,True,True
+Academic,A,Male,Very Interested,Urban,54,6310000,60.3,85.89,False,False
+Academic,B,Male,Very Interested,Urban,50,7000000,93.1,86.93,False,True
+Academic,B,Female,Very Interested,Rural,53,6670000,116.3,90.92,True,True
+Academic,B,Male,Not Interested,Rural,46,4810000,76.5,94.28,True,True
+Academic,A,Female,Less Interested,Urban,58,4000000,63.3,83.87,False,False
+Vocational,B,Female,Uncertain,Rural,46,7460000,62.5,86.86,True,False
+Vocational,B,Female,Less Interested,Rural,53,6720000,84.6,89.39,True,True
+Vocational,A,Female,Very Interested,Urban,54,6460000,59.8,88.59,False,True
+Academic,A,Male,Very Interested,Urban,54,5140000,85.4,86.31,False,False
+Vocational,B,Female,Less Interested,Urban,54,4740000,40.9,83.55,True,False
+Academic,B,Male,Uncertain,Rural,51,5130000,75.3,94.24,True,True
+Academic,B,Male,Uncertain,Urban,54,6210000,80.5,83.99,True,True
+Vocational,B,Male,Interested,Urban,56,4160000,59.6,85.83,False,False
+Academic,A,Male,Interested,Urban,55,4440000,58.0,86.09,False,False
+Academic,A,Male,Uncertain,Rural,48,7160000,71.0,88.46,True,True
+Academic,B,Female,Less Interested,Urban,57,3750000,82.4,90.33,False,False
+Academic,B,Male,Very Interested,Rural,53,7390000,94.3,92.39,False,True
+Vocational,B,Male,Very Interested,Rural,47,5440000,67.0,81.16,True,False
+Academic,A,Male,Very Interested,Rural,48,3770000,65.7,83.79,True,False
+Vocational,A,Female,Uncertain,Urban,51,5850000,68.3,84.85,True,True
+Vocational,A,Female,Uncertain,Urban,58,5680000,75.5,87.97,False,False
+Vocational,B,Male,Uncertain,Rural,55,3550000,79.3,93.7,True,True
+Academic,B,Female,Less Interested,Urban,54,4230000,57.7,84.89,True,False
+Academic,B,Female,Less Interested,Urban,56,4490000,60.4,84.63,True,False
+Academic,A,Female,Very Interested,Rural,48,6420000,69.3,84.15,False,False
+Academic,B,Male,Very Interested,Rural,45,5340000,40.5,83.78,True,False
+Vocational,A,Male,Uncertain,Urban,55,5220000,63.5,83.22,False,True
+Vocational,B,Male,Not Interested,Rural,52,4170000,90.4,84.21,True,False
+Vocational,A,Male,Less Interested,Urban,59,5390000,63.3,86.49,False,True
+Academic,B,Female,Less Interested,Urban,56,5990000,70.6,83.1,False,False
+Academic,A,Female,Very Interested,Urban,52,6910000,81.5,86.83,False,True
+Academic,B,Female,Uncertain,Rural,50,6590000,76.0,91.77,True,True
+Academic,B,Female,Less Interested,Urban,52,2790000,72.5,85.3,True,False
+Vocational,A,Female,Less Interested,Urban,54,6520000,84.8,87.5,True,True
+Vocational,A,Male,Uncertain,Rural,50,4710000,63.0,84.99,False,False
+Vocational,B,Female,Uncertain,Rural,47,6520000,84.3,83.43,True,True
+Academic,B,Female,Very Interested,Rural,40,3910000,48.7,80.8,True,False
+Vocational,A,Male,Very Interested,Rural,47,6220000,74.4,84.61,True,False
+Academic,B,Male,Interested,Urban,55,3460000,64.6,85.1,False,False
+Academic,B,Male,Very Interested,Urban,52,6730000,85.1,90.49,False,True
+Academic,B,Female,Less Interested,Rural,50,8120000,71.6,90.32,True,True
+Academic,B,Male,Less Interested,Urban,58,2140000,82.9,83.53,True,False
+Vocational,A,Male,Very Interested,Urban,54,5450000,70.3,85.41,False,True
+Vocational,B,Female,Very Interested,Rural,50,5970000,71.9,82.98,True,False
+Academic,B,Female,Less Interested,Rural,50,7650000,97.3,86.88,True,True
+Academic,A,Male,Very Interested,Rural,46,4150000,52.4,81.06,True,False
+Academic,B,Female,Very Interested,Rural,51,5850000,95.9,92.43,True,True
+Academic,B,Female,Very Interested,Rural,48,4240000,68.4,86.52,True,False
+Academic,A,Female,Uncertain,Rural,51,5840000,83.4,93.04,True,True
+Academic,A,Male,Very Interested,Urban,51,5720000,75.3,86.35,False,True
+Vocational,B,Male,Very Interested,Urban,54,4480000,97.0,82.46,False,True
+Academic,B,Female,Less Interested,Rural,49,7100000,81.5,84.05,True,False
+Academic,B,Female,Very Interested,Urban,52,3500000,66.9,85.11,True,False
+Vocational,B,Female,Uncertain,Rural,49,4750000,87.0,83.45,True,False
+Vocational,B,Female,Not Interested,Rural,52,5810000,81.3,88.73,True,False
+Academic,A,Male,Less Interested,Urban,55,3070000,68.7,83.3,False,False
+Vocational,B,Male,Uncertain,Urban,57,4030000,77.8,83.34,True,False
+Vocational,A,Male,Not Interested,Urban,51,5000000,63.8,81.24,False,True
+Vocational,A,Male,Less Interested,Urban,58,4560000,77.7,83.87,False,True
+Academic,A,Female,Less Interested,Urban,53,6360000,85.3,88.35,False,True
+Academic,B,Male,Very Interested,Urban,56,5910000,91.3,85.29,False,True
+Vocational,B,Female,Uncertain,Rural,53,3950000,75.9,84.31,True,False
+Vocational,B,Male,Uncertain,Rural,48,7250000,77.5,89.25,True,True
+Academic,A,Female,Very Interested,Urban,52,7540000,69.4,86.98,False,True
+Academic,A,Male,Not Interested,Rural,41,3020000,50.6,77.18,True,False
+Vocational,B,Female,Not Interested,Rural,52,4450000,71.0,84.79,True,False
+Academic,B,Male,Very Interested,Rural,50,3180000,72.4,85.01,True,False
+Vocational,B,Female,Not Interested,Rural,45,7490000,60.0,87.25,True,True
+Vocational,A,Male,Very Interested,Urban,53,5540000,63.6,84.53,False,False
+Academic,A,Female,Interested,Urban,54,4930000,96.9,86.97,False,True
+Vocational,A,Male,Interested,Rural,46,7780000,114.8,91.5,True,True
+Vocational,B,Male,Uncertain,Urban,53,3790000,80.0,90.82,True,True
+Academic,B,Female,Very Interested,Rural,52,7420000,82.6,86.82,True,True
+Academic,A,Female,Very Interested,Urban,54,5970000,74.3,85.68,False,True
+Academic,B,Male,Uncertain,Urban,59,3610000,85.2,78.67,False,True
+Academic,A,Female,Very Interested,Urban,52,4930000,66.4,90.18,False,True
+Academic,B,Male,Very Interested,Urban,53,6640000,81.0,89.22,False,True
+Academic,A,Male,Very Interested,Urban,57,6310000,92.8,88.96,False,True
+Vocational,A,Male,Very Interested,Rural,55,6080000,94.9,89.96,True,True
+Academic,A,Male,Very Interested,Urban,56,3860000,68.6,82.24,False,False
+Academic,B,Female,Not Interested,Rural,50,6050000,106.1,84.28,True,True
+Academic,B,Female,Interested,Urban,51,3180000,63.0,83.62,True,False
+Academic,A,Female,Interested,Urban,56,6700000,98.2,86.6,False,True
+Vocational,B,Male,Interested,Urban,54,5040000,43.5,84.87,False,False
+Academic,B,Male,Uncertain,Rural,50,8140000,78.3,89.24,True,True
+Academic,B,Male,Uncertain,Rural,50,3300000,101.9,96.23,True,True
+Academic,A,Male,Less Interested,Urban,53,2570000,100.0,91.43,False,True
+Vocational,B,Male,Uncertain,Rural,52,3690000,84.7,82.67,True,False
+Academic,B,Male,Uncertain,Rural,52,5920000,99.4,86.0,True,True
+Academic,B,Female,Less Interested,Rural,54,7050000,69.6,84.15,False,False
+Academic,B,Female,Very Interested,Rural,45,7580000,110.3,88.4,True,True
+Academic,B,Female,Uncertain,Rural,53,6520000,95.4,94.34,True,True
+Academic,B,Male,Very Interested,Urban,56,2900000,79.7,86.94,False,False
+Academic,B,Female,Very Interested,Rural,52,8470000,83.7,88.09,False,True
+Vocational,B,Female,Less Interested,Rural,52,6560000,89.9,88.76,True,True
+Academic,B,Female,Uncertain,Rural,52,6610000,93.2,92.0,True,True
+Academic,B,Male,Less Interested,Urban,54,5730000,70.4,84.12,True,True
+Vocational,B,Female,Uncertain,Rural,46,5410000,89.9,84.05,True,False
+Academic,A,Female,Less Interested,Urban,55,5210000,61.1,81.19,False,False
+Academic,A,Female,Uncertain,Urban,54,5580000,80.7,90.49,False,True
+Academic,B,Male,Very Interested,Rural,54,3700000,66.9,82.45,True,False
+Vocational,A,Male,Uncertain,Urban,52,5280000,81.3,91.6,False,True
+Vocational,B,Female,Not Interested,Rural,48,5830000,68.8,98.0,True,True
+Academic,A,Female,Less Interested,Urban,55,5560000,90.5,89.42,False,True
+Academic,A,Male,Very Interested,Urban,53,5470000,92.8,91.9,False,True
+Vocational,A,Female,Very Interested,Rural,51,6660000,71.4,87.36,False,True
+Academic,A,Male,Very Interested,Urban,55,6240000,71.9,87.55,False,True
+Vocational,A,Male,Interested,Urban,55,5020000,45.0,87.09,False,False
+Academic,A,Female,Less Interested,Urban,55,8160000,84.7,83.15,False,True
+Academic,B,Male,Very Interested,Urban,52,4520000,79.2,89.44,False,True
+Vocational,A,Female,Very Interested,Urban,53,5420000,79.0,87.37,False,True
+Vocational,B,Female,Not Interested,Rural,54,3650000,71.6,85.13,True,False
+Academic,A,Female,Very Interested,Urban,50,4340000,51.9,81.74,False,False
+Academic,B,Female,Very Interested,Urban,55,6690000,99.3,91.51,False,True
+Academic,B,Male,Uncertain,Rural,52,7120000,77.8,92.68,True,True
+Academic,A,Male,Very Interested,Urban,53,5010000,49.8,85.81,False,False
+Academic,A,Male,Less Interested,Urban,50,3410000,57.7,80.4,False,False
+Academic,B,Male,Interested,Urban,52,3110000,67.0,83.69,False,False
+Vocational,B,Male,Uncertain,Rural,49,5640000,92.5,85.66,True,False
+Academic,B,Male,Uncertain,Rural,52,7350000,72.1,90.79,True,True
+Vocational,A,Female,Very Interested,Rural,47,6700000,66.9,85.36,False,False
+Academic,A,Male,Interested,Urban,59,4700000,95.6,87.63,False,True
+Academic,A,Male,Uncertain,Urban,57,4460000,81.7,83.06,False,True
+Academic,B,Male,Very Interested,Rural,50,5710000,73.4,84.68,True,False
+Vocational,B,Female,Not Interested,Rural,52,5330000,76.5,94.93,True,True
+Academic,B,Female,Interested,Urban,62,6110000,87.2,88.74,True,True
+Vocational,A,Male,Uncertain,Urban,53,6180000,68.5,83.82,False,False
+Vocational,B,Male,Interested,Rural,52,7580000,81.4,89.9,True,True
+Academic,A,Female,Less Interested,Urban,52,4820000,71.2,83.54,False,True
+Academic,A,Female,Less Interested,Urban,55,4450000,78.7,84.99,False,True
+Vocational,B,Female,Uncertain,Rural,45,4950000,87.0,82.35,True,False
+Academic,A,Male,Not Interested,Urban,56,4940000,68.5,82.96,False,True
+Academic,B,Male,Interested,Urban,58,1880000,79.0,83.47,False,False
+Academic,B,Female,Very Interested,Urban,50,1940000,70.9,81.33,True,False
+Academic,A,Female,Very Interested,Rural,49,3540000,53.9,79.83,True,False
+Academic,B,Female,Less Interested,Urban,58,3160000,88.0,89.06,True,False
+Vocational,A,Female,Very Interested,Urban,53,5700000,75.5,83.64,False,True
+Academic,B,Male,Uncertain,Rural,52,6660000,77.6,90.29,True,True
+Vocational,A,Male,Uncertain,Rural,50,5040000,60.6,84.67,False,False
+Academic,A,Female,Uncertain,Urban,58,3180000,65.7,85.22,False,False
+Academic,B,Female,Uncertain,Rural,51,5540000,105.9,94.04,True,True
+Academic,B,Female,Less Interested,Urban,54,5460000,76.2,80.79,False,False
+Vocational,A,Female,Very Interested,Urban,56,5400000,91.9,88.39,False,True
+Vocational,B,Female,Less Interested,Rural,52,7530000,69.6,91.3,True,True
+Vocational,A,Male,Very Interested,Urban,50,6840000,58.6,83.59,False,False
+Academic,A,Female,Less Interested,Urban,52,4830000,85.7,86.99,False,True
+Academic,A,Female,Less Interested,Urban,60,3460000,63.0,81.33,False,False
+Vocational,B,Male,Very Interested,Rural,48,7120000,76.0,83.35,True,False
+Academic,A,Female,Very Interested,Urban,59,3680000,74.7,84.04,False,False
+Vocational,B,Male,Uncertain,Rural,52,6750000,71.0,87.78,True,False
+Academic,B,Female,Less Interested,Urban,54,4060000,61.6,85.54,False,False
+Academic,A,Male,Not Interested,Rural,53,2740000,85.1,84.9,True,False
+Academic,A,Male,Not Interested,Urban,56,4670000,70.4,82.75,False,True
+Academic,A,Male,Very Interested,Urban,54,6670000,78.7,88.52,False,True
+Academic,A,Male,Not Interested,Rural,51,3800000,68.8,85.12,True,False
+Academic,A,Female,Very Interested,Urban,52,7260000,74.2,89.05,False,True
+Academic,A,Male,Uncertain,Urban,54,4910000,71.3,82.12,False,True
+Vocational,B,Male,Not Interested,Rural,55,3360000,83.9,85.62,True,False
+Academic,B,Female,Less Interested,Urban,53,5890000,72.5,83.86,False,False
+Academic,B,Male,Interested,Urban,60,4320000,58.8,87.15,False,False
+Academic,A,Female,Less Interested,Urban,51,5720000,86.3,84.66,False,True
+Academic,A,Male,Very Interested,Urban,51,6020000,67.7,84.94,False,False
+Vocational,A,Male,Very Interested,Rural,47,7430000,54.5,85.62,False,False
+Academic,A,Female,Very Interested,Urban,54,6900000,90.4,91.29,False,True
+Vocational,A,Female,Uncertain,Rural,53,5260000,71.7,86.05,False,False
+Academic,B,Female,Less Interested,Urban,54,7750000,90.6,89.02,False,True
+Vocational,B,Male,Not Interested,Rural,50,6540000,74.6,87.62,True,False
+Academic,A,Female,Less Interested,Urban,60,3670000,83.5,88.3,False,False
+Academic,A,Female,Very Interested,Urban,54,4590000,55.8,81.34,False,False
+Academic,A,Male,Very Interested,Rural,48,5210000,37.9,81.35,True,False
+Vocational,A,Male,Interested,Urban,61,5400000,56.2,88.43,False,False
+Vocational,B,Female,Very Interested,Rural,51,6180000,74.0,83.96,True,False
+Academic,A,Male,Very Interested,Urban,51,5440000,85.0,88.79,False,True
+Academic,A,Female,Interested,Urban,44,5420000,24.7,81.71,False,False
+Academic,A,Female,Interested,Urban,49,7450000,92.6,83.55,False,True
+Academic,B,Male,Interested,Urban,56,4030000,64.5,83.68,False,False
+Academic,B,Male,Uncertain,Rural,52,5900000,102.9,87.68,True,True
+Academic,A,Female,Very Interested,Urban,52,7950000,74.7,86.17,False,True
+Vocational,A,Male,Uncertain,Rural,49,5930000,74.6,84.87,True,False
+Academic,B,Male,Not Interested,Rural,50,6050000,107.5,85.46,True,True
+Academic,A,Male,Very Interested,Rural,55,7780000,86.3,89.5,False,True
+Vocational,B,Male,Very Interested,Urban,57,4330000,81.2,82.95,True,False
+Academic,B,Female,Less Interested,Urban,49,3860000,60.3,85.07,True,False
+Vocational,B,Female,Uncertain,Rural,56,4750000,86.6,84.93,True,False
+Academic,A,Male,Uncertain,Urban,59,5300000,94.2,86.85,False,True
+Academic,B,Female,Uncertain,Rural,55,7450000,86.3,93.78,True,True
+Academic,B,Male,Less Interested,Urban,54,7130000,60.6,86.85,True,True
+Vocational,B,Female,Not Interested,Urban,52,5080000,61.8,80.34,False,True
+Vocational,B,Male,Very Interested,Urban,55,5050000,74.3,84.06,False,True
+Vocational,B,Male,Not Interested,Rural,45,6580000,67.0,83.02,True,False
+Vocational,A,Female,Less Interested,Urban,53,5950000,90.8,85.41,True,True
+Academic,B,Male,Uncertain,Urban,57,5360000,92.3,86.79,True,True
+Vocational,B,Female,Interested,Urban,59,5360000,71.8,87.23,False,True
+Academic,B,Male,Very Interested,Rural,52,5670000,82.6,85.57,False,False
+Academic,B,Male,Very Interested,Rural,52,7410000,74.9,89.39,True,True
+Academic,B,Female,Very Interested,Rural,52,5240000,100.0,91.65,True,True
+Academic,A,Male,Interested,Urban,54,3940000,101.1,88.07,False,True
+Academic,A,Male,Uncertain,Rural,51,8100000,74.6,86.33,False,True
+Academic,B,Female,Very Interested,Rural,49,7670000,97.1,90.52,True,True
+Vocational,B,Female,Uncertain,Rural,43,6820000,81.1,86.44,True,False
+Vocational,A,Female,Very Interested,Urban,50,5310000,67.3,84.31,False,False
+Vocational,B,Female,Uncertain,Rural,53,3540000,113.2,86.0,True,False
+Vocational,A,Female,Very Interested,Urban,52,5520000,82.5,84.59,False,True
+Academic,A,Male,Uncertain,Rural,52,7510000,64.9,87.24,False,True
+Academic,B,Female,Uncertain,Rural,53,6410000,93.8,92.66,True,True
+Academic,B,Female,Uncertain,Rural,50,7620000,80.1,90.52,True,True
+Academic,A,Male,Very Interested,Urban,49,4210000,52.4,81.59,True,False
+Academic,A,Female,Very Interested,Urban,54,7790000,70.0,84.72,False,True
+Vocational,A,Male,Very Interested,Urban,52,5330000,96.2,83.34,False,True
+Vocational,A,Male,Uncertain,Urban,53,6210000,54.8,86.59,False,False
+Academic,A,Male,Very Interested,Rural,46,4900000,51.6,82.62,True,False
+Academic,A,Male,Less Interested,Rural,51,4650000,53.9,84.06,True,False
+Academic,A,Male,Less Interested,Rural,52,6630000,66.8,85.3,False,False
+Vocational,A,Male,Very Interested,Urban,52,6270000,60.8,84.34,False,False
+Academic,A,Male,Interested,Urban,56,5400000,97.7,83.17,False,True
+Vocational,B,Female,Not Interested,Rural,49,6700000,89.3,88.44,True,True
+Academic,A,Female,Very Interested,Urban,53,4470000,85.2,86.66,False,True
+Vocational,B,Male,Very Interested,Rural,48,6440000,71.1,83.05,True,False
+Academic,B,Male,Interested,Urban,52,4310000,53.7,87.21,False,False
+Academic,B,Male,Less Interested,Urban,57,5080000,88.1,83.57,False,False
+Vocational,A,Female,Not Interested,Rural,48,5840000,63.8,85.97,True,False
+Academic,B,Male,Very Interested,Urban,50,4780000,105.7,92.31,False,True
+Academic,B,Male,Less Interested,Urban,53,3520000,105.1,93.72,True,True
+Academic,B,Female,Less Interested,Urban,56,3540000,73.1,86.28,False,False
+Academic,A,Female,Less Interested,Urban,58,4480000,69.5,86.43,False,False
+Vocational,B,Female,Not Interested,Rural,50,5520000,74.2,86.74,True,False
+Academic,A,Male,Interested,Urban,52,3340000,56.3,81.99,False,False
+Academic,A,Male,Very Interested,Rural,50,4740000,56.7,84.02,True,False
+Vocational,A,Female,Uncertain,Urban,59,3340000,53.4,83.04,False,False
+Academic,A,Male,Very Interested,Urban,54,5270000,72.7,85.47,False,False
+Academic,B,Male,Very Interested,Urban,50,6710000,71.2,89.82,True,True
+Academic,B,Female,Less Interested,Urban,56,3780000,74.5,78.94,False,False
+Vocational,A,Male,Interested,Urban,57,6170000,67.0,92.25,False,True
+Academic,B,Female,Interested,Rural,44,5180000,41.1,83.52,True,False
+Academic,B,Female,Less Interested,Urban,47,3950000,50.8,82.67,True,False
+Academic,A,Female,Less Interested,Urban,53,4900000,100.5,90.21,False,True
+Academic,A,Male,Less Interested,Rural,49,5420000,38.0,83.59,True,False
+Academic,B,Male,Uncertain,Rural,54,2590000,84.5,95.94,True,True
+Academic,A,Male,Very Interested,Urban,52,4160000,69.1,86.14,False,True
+Academic,A,Male,Very Interested,Rural,54,5900000,77.2,86.64,False,False
+Vocational,A,Female,Very Interested,Rural,49,6710000,63.8,86.82,True,True
+Vocational,B,Male,Uncertain,Rural,46,5240000,87.2,84.53,True,False
+Academic,B,Male,Less Interested,Rural,47,6690000,80.4,84.3,True,False
+Academic,A,Female,Very Interested,Rural,52,3490000,88.3,92.8,True,True
+Vocational,A,Female,Very Interested,Urban,53,6150000,54.4,85.46,False,True
+Academic,B,Female,Very Interested,Urban,52,7330000,77.9,87.5,False,True
+Academic,B,Male,Uncertain,Urban,53,6700000,64.9,89.67,True,True
+Academic,B,Male,Not Interested,Rural,48,3320000,72.8,83.63,True,False
+Academic,B,Female,Uncertain,Rural,49,6740000,77.2,87.0,True,True
+Vocational,B,Male,Uncertain,Rural,45,7390000,103.7,85.24,True,True
+Academic,B,Male,Uncertain,Rural,49,6460000,83.8,92.05,True,True
+Vocational,B,Female,Very Interested,Urban,56,4490000,69.7,81.34,False,False
+Academic,A,Male,Less Interested,Rural,51,6340000,74.3,83.96,False,False
+Academic,A,Male,Less Interested,Urban,55,3390000,101.7,90.28,False,True
+Academic,B,Female,Less Interested,Urban,53,2940000,73.3,85.82,False,False
+Academic,A,Female,Very Interested,Rural,47,2990000,73.8,82.29,False,False
+Vocational,B,Male,Not Interested,Rural,53,4060000,84.7,84.0,True,False
+Academic,B,Female,Uncertain,Rural,50,7000000,82.7,89.66,True,True
+Academic,A,Male,Uncertain,Rural,52,5940000,83.8,85.34,True,True
+Vocational,A,Male,Not Interested,Rural,53,7460000,58.2,90.95,True,True
+Vocational,B,Male,Uncertain,Rural,55,4280000,85.5,85.42,True,False
+Academic,B,Male,Very Interested,Urban,52,4390000,89.0,91.4,True,True
+Vocational,B,Female,Uncertain,Rural,50,4930000,86.1,91.88,True,True
+Academic,B,Male,Less Interested,Urban,49,4380000,49.8,82.47,True,False
+Academic,B,Female,Very Interested,Rural,49,7460000,78.0,87.39,False,True
+Academic,B,Male,Less Interested,Urban,54,4630000,53.9,84.99,True,False
+Academic,A,Female,Less Interested,Urban,52,4450000,42.2,81.83,False,False
+Academic,A,Male,Less Interested,Urban,55,5690000,82.7,85.89,False,True
+Academic,B,Female,Uncertain,Rural,54,8010000,74.4,90.43,True,True
+Vocational,B,Male,Very Interested,Rural,51,6370000,82.5,89.31,True,True
+Academic,A,Male,Less Interested,Urban,54,4920000,85.3,88.31,False,True
+Academic,A,Male,Very Interested,Urban,55,6140000,70.7,87.19,False,True
+Vocational,A,Female,Uncertain,Rural,53,6400000,90.4,88.57,True,True
+Academic,B,Female,Less Interested,Urban,59,5210000,86.7,87.0,True,True
+Vocational,A,Female,Uncertain,Urban,58,2830000,87.9,75.0,False,True
+Academic,B,Female,Uncertain,Urban,50,3570000,75.0,91.15,True,True
+Academic,A,Male,Less Interested,Urban,53,3130000,60.6,81.2,False,False
+Academic,A,Male,Very Interested,Urban,53,7590000,83.9,88.84,False,True
+Vocational,B,Female,Interested,Urban,54,3580000,58.7,85.99,False,False
+Vocational,B,Female,Not Interested,Rural,50,6140000,87.4,86.19,True,False
+Academic,B,Female,Less Interested,Rural,52,4720000,95.7,83.01,True,False
+Vocational,B,Female,Very Interested,Rural,49,7170000,74.8,87.19,True,True
+Academic,B,Female,Very Interested,Urban,49,6910000,71.6,87.47,False,True
+Vocational,A,Male,Uncertain,Urban,53,5650000,67.4,86.74,False,False
+Academic,B,Female,Not Interested,Rural,44,7790000,85.3,85.73,True,True
+Academic,A,Male,Less Interested,Urban,65,4360000,65.7,86.55,False,False
+Vocational,B,Male,Less Interested,Rural,51,6710000,75.3,84.86,True,True
+Vocational,B,Female,Uncertain,Rural,51,5770000,75.8,86.01,True,False
+Academic,B,Male,Very Interested,Rural,54,4170000,101.9,95.23,True,True
+Academic,A,Male,Uncertain,Rural,53,4840000,57.3,83.28,True,False
+Vocational,A,Male,Uncertain,Rural,53,5400000,67.2,86.03,False,False
+Academic,A,Male,Less Interested,Urban,54,6240000,71.8,82.63,False,True
+Vocational,A,Male,Not Interested,Rural,54,5760000,79.3,90.97,True,False
+Academic,A,Female,Less Interested,Urban,53,4630000,55.1,85.19,False,False
+Vocational,A,Male,Less Interested,Rural,51,7320000,68.3,87.02,False,True
+Academic,B,Male,Very Interested,Urban,52,6160000,85.4,86.57,True,True
+Vocational,B,Female,Not Interested,Rural,53,4720000,66.6,84.71,True,False
+Academic,B,Female,Uncertain,Urban,52,6110000,59.2,84.44,True,True
+Vocational,A,Female,Uncertain,Urban,55,4250000,57.2,78.83,False,True
+Vocational,A,Female,Uncertain,Rural,54,4900000,81.4,86.47,True,False
+Academic,B,Male,Uncertain,Urban,55,5050000,81.2,83.36,False,True
+Vocational,B,Male,Uncertain,Rural,53,5960000,83.8,92.85,True,True
+Academic,A,Female,Very Interested,Rural,50,7030000,78.7,86.54,True,True
+Vocational,B,Female,Interested,Urban,48,5780000,37.1,84.21,True,False
+Vocational,B,Female,Very Interested,Urban,56,4210000,42.9,80.56,False,True
+Academic,A,Male,Less Interested,Urban,53,6550000,84.7,84.39,False,True
+Vocational,B,Male,Very Interested,Rural,50,5870000,86.5,85.51,True,False
+Vocational,A,Female,Very Interested,Rural,49,7010000,73.3,84.9,True,False
+Academic,B,Female,Not Interested,Rural,50,4920000,113.1,82.93,True,True
+Vocational,B,Female,Interested,Urban,53,4010000,55.4,85.31,True,False
+Academic,A,Female,Uncertain,Rural,49,2570000,73.1,83.07,True,False
+Vocational,A,Male,Very Interested,Urban,53,6010000,53.4,84.68,False,False
+Vocational,B,Male,Very Interested,Urban,54,5790000,89.8,85.89,True,True
+Academic,B,Female,Uncertain,Rural,51,6470000,77.0,92.25,True,True
+Vocational,A,Male,Very Interested,Urban,54,5020000,76.5,83.05,False,True
+Academic,B,Female,Not Interested,Urban,54,5150000,74.7,81.05,True,True
+Academic,B,Female,Uncertain,Rural,51,7050000,85.2,91.49,True,True
+Academic,B,Female,Interested,Urban,47,4070000,41.4,80.99,True,False
+Academic,A,Male,Interested,Urban,57,4130000,60.4,85.23,False,False
+Academic,B,Male,Very Interested,Rural,47,5140000,49.7,86.29,True,False
+Academic,B,Female,Less Interested,Rural,50,4490000,60.0,85.95,True,False
+Vocational,B,Female,Less Interested,Rural,45,7420000,76.3,88.58,True,True
+Academic,A,Female,Less Interested,Rural,50,7580000,84.9,86.8,False,False
+Vocational,A,Male,Very Interested,Rural,42,7530000,67.7,84.76,False,False
+Vocational,B,Female,Uncertain,Rural,51,5510000,87.6,83.9,True,False
+Academic,A,Male,Uncertain,Urban,49,7330000,67.2,83.64,False,True
+Academic,A,Male,Very Interested,Urban,54,6190000,98.3,89.27,False,True
+Vocational,A,Male,Very Interested,Urban,53,6320000,70.5,86.19,True,True
+Academic,A,Male,Less Interested,Urban,54,5550000,93.3,88.71,False,True
+Academic,A,Female,Very Interested,Urban,56,5240000,85.9,91.0,False,True
+Vocational,B,Male,Less Interested,Rural,52,4230000,60.3,84.6,True,False
+Vocational,A,Male,Less Interested,Urban,60,5070000,81.2,85.97,False,True
+Vocational,B,Male,Very Interested,Rural,52,6640000,81.8,87.7,True,True
+Academic,B,Female,Uncertain,Rural,52,6010000,87.8,92.03,True,True
+Vocational,A,Female,Uncertain,Urban,55,4190000,54.4,81.77,False,True
+Vocational,B,Female,Interested,Urban,52,4960000,36.0,82.5,True,False
+Vocational,A,Male,Interested,Urban,59,3630000,56.2,82.44,False,False
+Academic,A,Female,Less Interested,Rural,49,7390000,68.7,84.66,False,False
+Academic,B,Female,Uncertain,Rural,50,5640000,87.6,92.45,True,True
+Academic,A,Male,Less Interested,Urban,55,5180000,61.3,88.02,False,False
+Vocational,A,Male,Very Interested,Urban,56,3350000,87.4,93.45,True,True
+Academic,B,Female,Uncertain,Rural,45,6270000,71.0,89.08,True,True
+Academic,A,Male,Uncertain,Urban,51,7650000,64.2,87.03,False,True
+Vocational,B,Male,Uncertain,Rural,52,6120000,65.8,84.55,True,False
+Academic,A,Female,Less Interested,Urban,56,5330000,82.2,88.85,False,True
+Vocational,B,Male,Not Interested,Rural,49,4960000,81.7,85.37,True,False
+Vocational,A,Male,Less Interested,Rural,47,8930000,40.9,89.86,True,True
+Academic,B,Male,Interested,Urban,54,3940000,65.1,84.12,False,False
+Academic,B,Male,Uncertain,Rural,52,6660000,79.2,90.19,True,True
+Vocational,A,Female,Uncertain,Rural,56,5850000,101.6,88.16,False,True
+Academic,B,Female,Less Interested,Urban,56,5760000,89.9,85.93,False,True
+Academic,B,Female,Not Interested,Urban,57,4760000,85.5,85.13,False,True
+Academic,B,Male,Very Interested,Rural,52,3210000,83.0,89.02,True,False
+Academic,A,Female,Very Interested,Urban,52,6290000,63.0,85.61,False,True
+Vocational,A,Male,Uncertain,Urban,55,5410000,56.2,83.48,False,True
+Vocational,B,Male,Very Interested,Urban,55,4250000,68.6,81.93,False,False
+Academic,B,Male,Not Interested,Rural,49,5340000,80.4,94.06,True,True
+Academic,B,Female,Very Interested,Rural,50,5950000,99.9,83.64,True,True
+Academic,A,Male,Interested,Urban,55,5120000,99.0,87.08,False,True
+Vocational,B,Female,Uncertain,Rural,44,6240000,77.6,83.2,True,False
+Vocational,A,Female,Very Interested,Urban,53,5470000,76.0,82.55,False,True
+Academic,A,Male,Interested,Urban,60,5830000,63.4,80.4,False,False
+Academic,A,Male,Interested,Urban,54,6500000,57.0,82.37,False,False
+Vocational,A,Male,Interested,Rural,45,7370000,79.2,86.31,True,True
+Academic,B,Male,Very Interested,Urban,53,6280000,62.1,85.02,True,True
+Academic,B,Female,Very Interested,Rural,50,7500000,88.2,88.13,True,True
+Academic,A,Male,Less Interested,Rural,49,6770000,81.0,83.7,False,False
+Vocational,B,Female,Interested,Urban,53,4060000,62.8,88.07,False,False
+Academic,B,Male,Very Interested,Urban,53,6690000,80.0,86.77,False,True
+Academic,B,Male,Less Interested,Urban,53,3930000,60.9,84.01,True,False
+Academic,A,Female,Less Interested,Urban,58,4990000,48.8,81.6,False,False
+Vocational,A,Female,Uncertain,Rural,50,6230000,85.4,82.26,True,True
+Academic,A,Male,Very Interested,Urban,54,6360000,77.6,87.66,True,True
+Academic,A,Female,Less Interested,Urban,62,5220000,53.0,84.32,False,False
+Vocational,A,Male,Uncertain,Urban,52,4210000,66.9,83.8,False,False
+Academic,B,Female,Very Interested,Rural,49,6280000,96.4,89.97,True,True
+Vocational,B,Male,Uncertain,Rural,54,4870000,80.6,84.42,False,False
+Academic,A,Female,Very Interested,Urban,55,5520000,89.1,92.89,False,True
+Academic,B,Female,Very Interested,Urban,51,3620000,92.2,91.98,True,True
+Academic,B,Female,Interested,Urban,44,5900000,27.8,82.69,True,False
+Vocational,A,Female,Very Interested,Urban,53,5750000,68.8,83.53,False,True
+Academic,A,Female,Very Interested,Urban,54,5750000,61.3,84.85,False,False
+Vocational,A,Female,Interested,Rural,51,7210000,91.9,89.11,True,True
+Academic,B,Male,Interested,Urban,54,3710000,65.7,85.09,False,False
+Vocational,B,Female,Not Interested,Rural,54,3720000,85.3,84.64,True,False
+Vocational,B,Male,Very Interested,Rural,51,4870000,92.1,81.69,True,False
+Academic,A,Female,Less Interested,Urban,53,5910000,82.0,87.67,False,True
+Vocational,B,Female,Not Interested,Rural,49,4910000,68.7,84.64,True,False
+Academic,B,Female,Less Interested,Urban,58,3650000,64.6,84.14,False,False
+Vocational,A,Female,Uncertain,Urban,54,4210000,76.0,91.73,True,True
+Academic,B,Female,Very Interested,Urban,49,2560000,70.3,82.51,True,False
+Vocational,B,Female,Uncertain,Urban,60,4350000,63.7,83.06,False,False
+Vocational,A,Male,Uncertain,Rural,56,5320000,74.8,86.64,True,False
+Academic,A,Female,Less Interested,Urban,52,4510000,93.1,87.48,False,True
+Vocational,A,Female,Less Interested,Rural,54,5990000,97.3,89.36,False,True
+Academic,A,Male,Less Interested,Urban,54,4410000,48.4,83.68,False,False
+Vocational,B,Female,Not Interested,Rural,45,6330000,64.1,83.55,True,False
+Vocational,A,Female,Very Interested,Rural,45,8370000,81.7,92.24,True,True
+Academic,A,Female,Very Interested,Urban,55,5480000,96.3,91.84,False,True
+Vocational,B,Male,Uncertain,Rural,52,6240000,75.5,87.08,True,True
+Academic,B,Male,Very Interested,Rural,53,4090000,88.8,84.53,True,False
+Vocational,B,Male,Not Interested,Rural,48,5930000,68.7,85.86,True,False
+Vocational,A,Male,Uncertain,Urban,55,4970000,73.5,85.76,False,False
+Academic,B,Male,Very Interested,Urban,53,5330000,86.6,89.49,False,True
+Vocational,B,Male,Very Interested,Rural,49,6920000,66.7,87.04,True,True
+Vocational,A,Male,Uncertain,Rural,51,6830000,74.0,86.56,False,False
+Vocational,B,Female,Uncertain,Urban,49,6660000,53.1,84.06,True,True
+Academic,A,Female,Very Interested,Urban,52,6600000,84.0,88.36,False,True
+Vocational,B,Female,Uncertain,Rural,51,6950000,88.4,86.85,True,False
+Academic,B,Male,Very Interested,Urban,54,6420000,70.0,84.69,False,True
+Academic,A,Female,Uncertain,Urban,58,3840000,63.7,83.59,False,False
+Vocational,A,Female,Very Interested,Urban,53,4220000,66.8,80.29,False,False
+Academic,B,Male,Uncertain,Rural,48,5130000,89.7,92.55,True,True
+Academic,A,Female,Very Interested,Urban,51,8770000,67.4,84.75,False,True
+Vocational,A,Male,Not Interested,Rural,51,8550000,61.9,85.36,False,True
+Vocational,A,Female,Very Interested,Urban,60,2310000,76.7,75.62,False,True
+Academic,B,Male,Uncertain,Rural,51,6330000,69.0,84.5,True,True
+Vocational,A,Male,Very Interested,Urban,53,4950000,67.1,82.74,False,True
+Academic,B,Female,Less Interested,Urban,55,3020000,67.0,84.86,True,False
+Academic,B,Female,Very Interested,Rural,51,4020000,67.1,83.63,True,False
+Vocational,A,Female,Uncertain,Rural,53,4190000,79.7,84.57,False,False
+Vocational,A,Male,Interested,Urban,61,5170000,43.8,81.97,False,False
+Academic,A,Male,Uncertain,Urban,53,7860000,66.2,87.09,False,True
+Vocational,A,Male,Uncertain,Rural,52,5660000,64.3,84.54,False,False
+Vocational,B,Male,Not Interested,Rural,50,5610000,71.5,87.6,True,False
+Academic,B,Female,Very Interested,Urban,53,7980000,91.0,87.5,False,True
+Vocational,B,Female,Less Interested,Rural,50,5610000,75.8,81.07,True,False
+Vocational,B,Female,Very Interested,Rural,50,6960000,58.2,86.47,True,True
+Academic,A,Male,Uncertain,Rural,55,6960000,80.6,94.05,True,True
+Vocational,A,Male,Very Interested,Urban,55,5930000,62.7,83.7,False,True
+Academic,B,Male,Less Interested,Urban,52,4630000,72.9,81.45,True,False
+Academic,A,Male,Uncertain,Urban,52,4370000,75.2,91.38,True,True
+Academic,B,Male,Not Interested,Rural,51,6020000,96.0,87.63,True,True
+Academic,A,Female,Very Interested,Urban,55,4490000,88.6,89.42,False,True
+Academic,B,Female,Very Interested,Rural,54,4320000,86.8,83.17,True,False
+Academic,B,Female,Interested,Urban,56,3250000,67.8,83.94,False,False
+Academic,B,Male,Uncertain,Rural,57,5780000,99.0,88.61,True,True
+Academic,B,Male,Less Interested,Rural,48,5050000,36.5,81.41,True,False
+Vocational,B,Male,Interested,Urban,51,4180000,44.0,82.62,False,False
+Vocational,A,Male,Uncertain,Rural,55,6060000,90.4,90.41,True,True
+Vocational,B,Male,Very Interested,Urban,56,5580000,84.8,86.57,False,True
+Academic,B,Male,Uncertain,Rural,47,6530000,82.3,90.77,True,True
+Academic,A,Male,Less Interested,Urban,52,6430000,61.2,82.06,False,False
+Academic,A,Male,Very Interested,Urban,53,4430000,64.7,84.76,False,False
+Academic,B,Male,Very Interested,Urban,57,5430000,93.4,85.5,True,True
+Academic,B,Male,Interested,Urban,51,5960000,29.2,82.41,False,False
+Vocational,A,Female,Uncertain,Urban,55,5060000,78.1,85.34,False,True
+Vocational,A,Male,Less Interested,Urban,56,4800000,74.7,84.59,False,True
+Academic,A,Male,Less Interested,Urban,55,6660000,63.3,84.26,False,False
+Academic,B,Female,Very Interested,Urban,56,3530000,92.2,83.82,True,False
+Academic,A,Female,Less Interested,Urban,51,4650000,43.5,81.18,False,False
+Academic,B,Male,Uncertain,Rural,52,3330000,90.0,97.0,True,True
+Vocational,B,Female,Very Interested,Rural,50,5430000,91.9,81.08,True,True
+Vocational,A,Female,Uncertain,Urban,54,4760000,46.7,80.18,False,True
+Academic,A,Male,Less Interested,Rural,54,3540000,77.3,85.13,True,False
+Academic,A,Female,Very Interested,Urban,54,3060000,70.7,81.65,False,False
+Academic,B,Male,Interested,Urban,54,3900000,64.1,84.7,False,False
+Academic,B,Male,Uncertain,Urban,60,2650000,84.1,86.61,True,False
+Academic,A,Female,Very Interested,Urban,52,3420000,74.5,86.56,False,False
+Academic,B,Male,Very Interested,Urban,52,2000000,80.0,84.03,True,False
+Vocational,A,Male,Very Interested,Rural,52,5150000,98.0,84.49,False,True
+Vocational,B,Female,Uncertain,Rural,50,4410000,76.4,82.89,True,False
+Academic,B,Female,Less Interested,Urban,52,2460000,69.4,82.27,False,False
+Academic,A,Female,Less Interested,Urban,55,5030000,98.0,87.12,False,True
+Vocational,B,Male,Uncertain,Rural,55,4810000,88.4,93.87,True,True
+Vocational,A,Male,Not Interested,Rural,49,4070000,62.7,84.15,True,False
+Academic,A,Male,Less Interested,Urban,55,5640000,57.1,82.91,False,False
+Academic,A,Female,Uncertain,Urban,52,5360000,75.0,88.84,True,True
+Vocational,B,Male,Very Interested,Rural,51,4660000,83.4,80.42,True,False
+Academic,B,Female,Very Interested,Rural,45,3090000,69.5,81.73,True,False
+Vocational,A,Male,Interested,Urban,56,5760000,85.0,86.68,False,True
+Academic,A,Female,Very Interested,Urban,57,6570000,60.0,87.87,False,False
+Vocational,A,Male,Very Interested,Rural,50,5700000,78.8,83.35,False,False
+Academic,B,Female,Uncertain,Rural,50,7090000,80.1,89.82,True,True
+Vocational,A,Female,Uncertain,Urban,52,4180000,94.6,79.11,False,True
+Vocational,B,Female,Not Interested,Rural,51,6630000,62.5,90.62,True,True
+Academic,B,Male,Uncertain,Urban,53,5920000,63.7,87.52,True,True
+Academic,B,Male,Very Interested,Rural,55,8260000,91.1,88.25,True,True
+Vocational,A,Female,Very Interested,Urban,57,4560000,85.9,83.55,False,True
+Academic,B,Male,Uncertain,Urban,51,5120000,64.0,91.73,False,True
+Academic,B,Male,Less Interested,Urban,53,1000000,107.1,90.28,False,True
+Academic,B,Male,Very Interested,Urban,53,5700000,98.1,89.1,True,True
+Vocational,B,Male,Uncertain,Rural,47,5120000,82.0,82.1,True,False
+Academic,B,Male,Very Interested,Urban,56,3850000,60.9,82.33,True,False
+Academic,A,Female,Very Interested,Urban,51,6540000,64.4,85.98,False,True
+Academic,A,Female,Less Interested,Urban,57,4850000,93.8,86.85,False,True
+Academic,A,Female,Less Interested,Rural,52,5110000,54.8,84.5,True,False
+Academic,B,Male,Not Interested,Urban,52,5180000,78.4,81.06,True,True
+Academic,A,Male,Very Interested,Urban,51,5510000,76.8,85.52,False,False
+Vocational,A,Female,Very Interested,Rural,49,6370000,70.7,85.3,True,True
+Vocational,B,Male,Uncertain,Rural,48,6900000,59.6,85.14,True,False
+Academic,A,Male,Interested,Urban,57,4470000,57.2,87.19,False,False
+Vocational,A,Female,Less Interested,Rural,53,6450000,90.7,87.66,True,True
+Academic,A,Female,Less Interested,Urban,61,3680000,60.9,80.63,False,False
+Vocational,B,Male,Not Interested,Rural,47,4690000,93.6,88.2,True,False
+Academic,A,Female,Less Interested,Urban,54,7470000,78.6,86.38,False,True
+Vocational,B,Male,Very Interested,Rural,49,6000000,71.9,84.58,True,False
+Academic,A,Female,Less Interested,Urban,54,6500000,99.7,89.59,False,True
+Academic,B,Female,Very Interested,Rural,51,6910000,74.2,86.87,True,True
+Academic,B,Female,Less Interested,Urban,53,3770000,65.1,85.27,True,False
+Academic,B,Male,Very Interested,Rural,53,5000000,50.8,84.54,True,False
+Academic,B,Female,Less Interested,Urban,52,3270000,65.0,85.16,False,False
+Vocational,A,Female,Very Interested,Rural,49,7420000,63.6,85.99,True,True
+Academic,B,Female,Less Interested,Rural,51,7480000,84.3,89.72,True,True
+Vocational,A,Male,Less Interested,Urban,49,5550000,75.2,79.56,False,True
+Academic,B,Male,Uncertain,Rural,53,5840000,105.8,87.18,True,True
+Academic,B,Male,Interested,Urban,50,2940000,69.1,86.13,True,False
