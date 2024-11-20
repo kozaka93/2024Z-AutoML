@@ -1,0 +1,11 @@
+Iteracja,R2,Params
+10,0.9728931188583374,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 14, 'model__min_child_weight': 64})"
+20,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+30,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+40,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+50,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+60,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+70,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+80,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+90,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"
+100,0.9740539789199829,"OrderedDict({'model__colsample_bytree': 1, 'model__max_depth': 4, 'model__min_child_weight': 1})"

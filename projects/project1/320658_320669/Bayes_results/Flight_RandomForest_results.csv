@@ -1,0 +1,11 @@
+Iteracja,R2,Params
+10,0.8538746548016237,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 9, 'model__n_estimators': 371})"
+20,0.8515271991431053,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 500})"
+30,0.851344733880895,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 305})"
+40,0.8515809095535827,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 426})"
+50,0.851472137485143,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 4, 'model__n_estimators': 227})"
+60,0.8509351624812576,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 340})"
+70,0.8514328875565386,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 299})"
+80,0.8513356421254322,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 68})"
+90,0.8511862260975469,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 485})"
+100,0.8515320906230196,"OrderedDict({'model__min_samples_leaf': 2, 'model__min_samples_split': 2, 'model__n_estimators': 452})"
