@@ -27,7 +27,7 @@
     - Przykładowy przepływ pracy z danymi, wyborem modelu i ewaluacją wyników.
     - Wyjaśnienie komponentów oraz interpretacja uzyskanych rezultatów.
     
-    Dokładny podział punktów znajduje się w [sekcji poniżej](#kryteria-oceny-jupyter-notebook) .
+    Dokładny podział punktów znajduje się w [sekcji poniżej](#Kryteria-oceny-Jupyter-notebook) .
     
 2. **Pakiet implementacyjny (5 pkt):**
     - W pełni funkcjonalny kod pakietu w Pythonie.
