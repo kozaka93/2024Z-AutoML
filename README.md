@@ -74,7 +74,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>5/12</td>
     <td>MLJAR</td>
     <td>27/11</td>
-    <td>Learning Curves + Intro Projekt 2</td>
+    <td><A href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab09">Learning Curves</a> + Intro Projekt 2</td>
   </tr>
   <tr>
     <td>10</td>
