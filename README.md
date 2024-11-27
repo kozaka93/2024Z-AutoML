@@ -67,14 +67,14 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>28/11</td>
     <td>TBA</td>
     <td>20/11</td>
-    <td>Autosklearn 1.0</td>
+    <td>Prezentacje projektu</td>
   </tr>
   <tr>
     <td>9</td>
     <td>5/12</td>
     <td>MLJAR</td>
     <td>27/11</td>
-    <td></td>
+    <td>Learning Curves + Intro Projekt 2</td>
   </tr>
   <tr>
     <td>10</td>
