@@ -65,7 +65,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
   <tr>
     <td>8</td>
     <td>28/11</td>
-    <td>TBA</td>
+    <td>forester</td>
     <td>20/11</td>
     <td>Prezentacje projektu</td>
   </tr>
@@ -79,9 +79,9 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
   <tr>
     <td>10</td>
     <td>12/12</td>
-    <td>AMLTK</td>
+    <td>Auto-sklearn</td>
     <td>04/12</td>
-    <td></td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab10">MLJAR</a></td>
   </tr>
   <tr>
     <td>11</td>
