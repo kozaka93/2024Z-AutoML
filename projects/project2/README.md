@@ -29,7 +29,7 @@
     
     Dokładny podział punktów znajduje się w [sekcji poniżej](#Kryteria-oceny-Jupyter-notebook) .
     
-2. **Pakiet implementacyjny (5 pkt):**
+2. **Pakiet implementacyjny (10 pkt):**
     - W pełni funkcjonalny kod pakietu w Pythonie.
     - Starannie sformatowane wyniki, gotowe do analizy i raportowania.
 3. **Prezentacja projektu (5 pkt):**
