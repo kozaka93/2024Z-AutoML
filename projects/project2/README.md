@@ -1,4 +1,4 @@
-**Celem projektu** jest stworzenie prototypu pakietu AutoML, który będzie adresowany do określonej grupy odbiorców i skoncentrowany na rozwiązywaniu konkretnego typu problemów uczenia maszynowego. Pakiet ma wspierać użytkowników na każdym etapie procesu automatycznego modelowania ML, zapewniając funkcjonalność w zakresie przetwarzania danych, selekcji i optymalizacji modeli, a także ewaluacji wyników.
+8**Celem projektu** jest stworzenie prototypu pakietu AutoML, który będzie adresowany do określonej grupy odbiorców i skoncentrowany na rozwiązywaniu konkretnego typu problemów uczenia maszynowego. Pakiet ma wspierać użytkowników na każdym etapie procesu automatycznego modelowania ML, zapewniając funkcjonalność w zakresie przetwarzania danych, selekcji i optymalizacji modeli, a także ewaluacji wyników.
 
 ## **Zakres projektu**
 
@@ -45,7 +45,7 @@
     - Funkcje preprocessingowe (4 pkt).
     - Automatyzacja wyboru i optymalizacji modeli (4 pkt).
     - Funkcje postprocessingowe, w tym generowanie raportów (4 pkt).
-    - Jeden z komponentów musi być szczególnie rozbudowany, uwzględniając innowacyjne podejście (dodatkowe 3 pkt).
+    - Jeden z komponentów musi być szczególnie rozbudowany, uwzględniając innowacyjne podejście (3 pkt).
 
 ## **Harmonogram realizacji**
 
