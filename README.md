@@ -88,7 +88,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>19/12</td>
     <td>TabPFN</td>
     <td>11/12</td>
-    <td>MLJAR</td>
+    <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab11">auto-sklearn</a></td>
   </tr>
   <tr>
     <td>12</td>
