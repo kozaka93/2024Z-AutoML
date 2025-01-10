@@ -86,21 +86,21 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
   <tr>
     <td>11</td>
     <td>19/12</td>
-    <td>TabPFN</td>
+    <td>Auto-sklearn 2.0</td>
     <td>11/12</td>
     <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab11">auto-sklearn</a></td>
   </tr>
   <tr>
     <td>12</td>
     <td>02/01</td>
-    <td>Survey about Trust in AutoML</td>
+    <td>NAS</td>
     <td>18/12</td>
     <td>AMLTK</td>
   </tr>
   <tr>
     <td>13</td>
     <td>09/01</td>
-    <td>TBA</td>
+    <td>TabPFN</td>
     <td>15/01</td>
     <td></td>
   </tr>
