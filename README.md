@@ -58,7 +58,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
   <tr>
     <td>7</td>
     <td>21/11</td>
-    <td>Learning Curves</td>
+    <td>Jan van Rijn: Learning Curves</td>
     <td>13/11</td>
     <td><a href="https://github.com/kozaka93/2024Z-AutoML/tree/main/labs/lab06">AutoGluon</a></td>
   </tr>
@@ -95,26 +95,26 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>02/01</td>
     <td>NAS</td>
     <td>18/12</td>
-    <td>AMLTK</td>
+    <td></td>
   </tr>
   <tr>
     <td>13</td>
     <td>09/01</td>
-    <td>TabPFN</td>
+    <td>Maciej Chrabąszcz: TabPFN</td>
     <td>15/01</td>
-    <td></td>
+    <td>NAS/TabPFN</td>
   </tr>
   <tr>
     <td>14</td>
     <td>16/01</td>
-    <td></td>
+    <td>Matthias Feurer</td>
     <td>22/01</td>
-    <td></td>
+    <td>Prezentacje projektu</td>
   </tr>
   <tr>
     <td>15</td>
     <td>23/01</td>
-    <td></td>
+    <td>Podsumowanie</td>
     <td>29/01</td>
     <td></td>
   </tr>
