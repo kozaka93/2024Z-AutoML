@@ -1,4 +1,4 @@
-8**Celem projektu** jest stworzenie prototypu pakietu AutoML, który będzie adresowany do określonej grupy odbiorców i skoncentrowany na rozwiązywaniu konkretnego typu problemów uczenia maszynowego. Pakiet ma wspierać użytkowników na każdym etapie procesu automatycznego modelowania ML, zapewniając funkcjonalność w zakresie przetwarzania danych, selekcji i optymalizacji modeli, a także ewaluacji wyników.
+**Celem projektu** jest stworzenie prototypu pakietu AutoML, który będzie adresowany do określonej grupy odbiorców i skoncentrowany na rozwiązywaniu konkretnego typu problemów uczenia maszynowego. Pakiet ma wspierać użytkowników na każdym etapie procesu automatycznego modelowania ML, zapewniając funkcjonalność w zakresie przetwarzania danych, selekcji i optymalizacji modeli, a także ewaluacji wyników.
 
 ## **Zakres projektu**
 
@@ -20,7 +20,7 @@
 - **Rozszerzone rozwiązanie:** Jeden z komponentów (np. preprocessing lub model selection) musi zawierać innowacyjne podejście, takie jak dynamiczne dostosowanie do danych, zaawansowana analiza cech czy zautomatyzowana interpretacja wyników modeli.
 - **Interfejs użytkownika:** System ma być dostępny w formie pakietu w Python, uzupełnionego o tutorial w Jupyter Notebooku, wyjaśniający poszczególne komponenty oraz prezentujący interpretację wyników na rzeczywistych danych.
 
-## **Wymagane elementy projektu (40 pkt):**
+## **Wymagane elementy projektu (45 pkt):**
 
 1. **Jupyter Notebook z tutorialem (30 pkt):**
     - Kompletny przewodnik po funkcjonalnościach pakietu.
