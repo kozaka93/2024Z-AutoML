@@ -102,7 +102,7 @@ Winter Semester 2024/25 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
     <td>09/01</td>
     <td>Maciej Chrabąszcz: TabPFN</td>
     <td>15/01</td>
-    <td>NAS/TabPFN</td>
+    <td><a href="https://colab.research.google.com/drive/1n5elq9EtlOLKYDyBe_7JREzS8isNKrEQ?usp=sharing">NAS/TabPFN</a></td>
   </tr>
   <tr>
     <td>14</td>
