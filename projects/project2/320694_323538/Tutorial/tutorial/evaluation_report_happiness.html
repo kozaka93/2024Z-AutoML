@@ -1,0 +1,37 @@
+
+        <html>
+          <head>
+            <title>Evaluation Report</title>
+            <meta charset="UTF-8">
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #2c3e50; }
+                ul { list-style-type: none; padding: 0; }
+                li { margin: 5px 0; font-size: 16px; }
+                pre { background-color: #f4f4f4; padding: 10px; border-radius: 5px; }
+                img { margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
+                .key-metrics { padding: 10px; background: #ecf0f1; border: 1px solid #bdc3c7; border-radius: 5px; }
+            </style>
+          </head>
+          <body>
+            <h1>Evaluation Report</h1>
+            <div class="key-metrics">
+              <h2>Key Metrics</h2>
+              <ul><li><strong>AUC:</strong> 0.9420</li><li><strong>Accuracy:</strong> 0.9000</li><li><strong>Precision:</strong> 0.9333</li><li><strong>Recall:</strong> 0.8750</li><li><strong>F1-Score:</strong> 0.9032</li></ul>
+            </div>
+            <h2>Confusion Matrix</h2><img src="confusion_matrix.png" width="300">
+            <h2>ROC Curve</h2><img src="roc_curve.png" width="300">
+            <h2>Precision-Recall Curve</h2><img src="precision_recall_curve.png" width="300">
+            <h2>Classification Report</h2>
+            <pre>              precision    recall  f1-score   support
+
+           0     0.8667    0.9286    0.8966        14
+           1     0.9333    0.8750    0.9032        16
+
+    accuracy                         0.9000        30
+   macro avg     0.9000    0.9018    0.8999        30
+weighted avg     0.9022    0.9000    0.9001        30
+</pre>
+          </body>
+        </html>
+        
