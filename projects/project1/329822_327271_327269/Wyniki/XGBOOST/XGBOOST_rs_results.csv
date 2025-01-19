@@ -1,5 +1,0 @@
-model__subsample,model__sampling_method,model__min_child_weight,model__max_depth,model__lambda,model__gamma,model__eta,model__colsample_bytree,model__booster,model__alpha
-0.1,uniform,1,1,1.0,0.5,0.5,0.2,gbtree,0.0009765625
-0.5,uniform,4,1,128.0,0.125,1.0,0.8,dart,0.00390625
-0.6,uniform,2,6,8.0,0.125,0.0625,1.0,gbtree,1.0
-0.6,uniform,1,12,0.25,0.0078125,0.25,1.0,gbtree,0.0009765625
