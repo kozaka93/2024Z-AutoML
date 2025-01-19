@@ -1,0 +1,40 @@
+{
+    "models": [
+        {
+            "name": "KNeighborsClassifier",
+            "module": "sklearn.neighbors",
+            "params": {
+                "n_neighbors": {"type": "randint", "low": 1, "high": 10}
+            }
+        },
+        {
+            "name": "GradientBoostingClassifier",
+            "module": "sklearn.ensemble",
+            "params": {
+                "n_estimators": {"type": "randint", "low": 100, "high": 500},
+                "learning_rate": {"type": "uniform", "low": 0.001, "high": 0.999},
+                "subsample": {"type": "uniform", "low": 0.1, "high": 0.9},
+                "max_depth": {"type": "randint", "low": 4, "high": 10}
+            }
+        },
+        {
+            "name": "RandomForestClassifier",
+            "module": "sklearn.ensemble",
+            "params": {
+                "n_estimators": {"type": "randint", "low": 1, "high": 2000},
+                "max_features": [null, 10, 20, "sqrt", "log2"],
+                "max_depth": {"type": "randint", "low": 4, "high": 10}
+            }
+        },
+        {
+            "name": "LogisticRegression",
+            "module": "sklearn.linear_model",
+            "params": {
+                "C": {"type": "uniform", "low": 0.0001, "high": 10000},
+                "penalty": ["l1", "l2"],
+                "solver": ["liblinear"],
+                "max_iter": [3000]
+            }
+        }
+    ]
+}
