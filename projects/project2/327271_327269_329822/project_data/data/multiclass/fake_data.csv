@@ -1,0 +1,11 @@
+age,blood_pressure,cholesterol,glucose,text_column,target
+30,"120,5",5,"180,3",Text data 1,High
+45,"110,3",7,"210,4",Text data 2,Low
+34,"135,1",,,Text data 3,Medium
+50,"125,7",1,"220,5",,High
+40,"130,4",3,"215,1",Text data 4,Low
+,,"","",Text data 5,Medium
+35,"123,6",6,"185,2",Text data 6,Medium
+28,"138,2",9,"190,0",Text data 7,High
+55,"115,8",8,"205,6",Text data 8,Low
+60,"140,1",,,"Text data 9,High"
