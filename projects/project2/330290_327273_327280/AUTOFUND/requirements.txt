@@ -1,0 +1,10 @@
+numerapi
+pandas
+pyarrow
+matplotlib
+lightgbm
+scikit-learn
+cloudpickle==2.2.1
+scipy==1.10.1
+seaborn
+numerai-tools

@@ -1,0 +1,50 @@
+.venv/
+.idea/
+
+# Numerai data
+v5.0/
+
+# Numerai data in notebooks
+notebooks/v5.0/
+
+# Base Models
+models/base_models/*
+!models/base_models/.gitkeep
+
+# Neutralization Params
+models/neutralization_params/*
+!models/neutralization_params/.gitkeep
+
+# Ensemble Models
+models/ensemble_models/weighted_ensembler/*
+!models/ensemble_models/weighted_ensembler/.gitkeep
+models/ensemble_models/lgbm_ensembler/*
+!models/ensemble_models/lgbm_ensembler/.gitkeep
+
+# Meta Models
+models/meta_models/weighted_meta_model/*
+!models/meta_models/weighted_meta_model/.gitkeep
+models/meta_models/lgbm_meta_model/*
+!models/meta_models/lgbm_meta_model/.gitkeep
+
+# Predictions
+predictions/*
+!predictions/.gitkeep
+
+# Pycache
+__pycache__/
+numerai_automl/__pycache__/
+numerai_automl/feature_neutralizer/__pycache__/
+numerai_automl/model_managers/__pycache__/
+numerai_automl/ensemblers/__pycache__/
+numerai_automl/model_trainer/__pycache_h/
+numerai_automl/reporter/__pycache__/
+numerai_automl/scorer/__pycache__/
+numerai_automl/data_managers/__pycache__/
+numerai_automl/utils/__pycache__/
+numerai_automl/tests/__pycache__/
+
+return_data.csv
+
+
+
