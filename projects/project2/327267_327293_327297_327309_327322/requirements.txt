@@ -1,0 +1,10 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.10
+joblib>=1.4
+lime>=0.2
+shap>=0.46
+openml>=0.15
+requests>=2.32
+xmltodict>=0.14
