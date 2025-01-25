@@ -1,0 +1,5 @@
+ZESPOL: Dunal Karolina, Kamińska Zofia, Deptuch Mateusz
+
+link do repozytorium: https://github.com/DeptuchMateusz/medAId
+
+dokładniejszy opis i porównania w pliku notebook.ipynb
