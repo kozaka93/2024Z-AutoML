@@ -1,0 +1,397 @@
+\documentclass{article}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{geometry}%
+\geometry{margin=0.2in}%
+\usepackage{graphicx}%
+%
+\title{Report on Titanic dataset}%
+\author{Classify2TeX}%
+\usepackage{amsmath}%
+\usepackage{amssymb}%
+\usepackage{enumitem}%
+%
+\begin{document}%
+\normalsize%
+\maketitle%
+\newpage%
+\tableofcontents%
+\newpage%
+\section{Exploratory Data Analysis}%
+\label{sec:ExploratoryDataAnalysis}%
+\subsection{Non{-}Null Count, Dtype of features}%
+\label{subsec:Non{-}NullCount,Dtypeoffeatures}%
+The table 1 provides information about the dataset, including the number of non-null values and the data types of each feature.%
+
+
+\begin{table}[h!]%
+\caption{Dataset Columns Information}%
+\vspace{0.2cm}%
+\centering%
+\begin{tabular}{|c||c||c||c|}%
+\hline%
+Index&Column&Non{-}Null Count&Dtype\\%
+\hline%
+0&PassengerId&891&int64\\%
+1&Survived&891&int64\\%
+2&Pclass&891&int64\\%
+3&Name&891&object\\%
+4&Sex&891&object\\%
+5&Age&714&float64\\%
+6&SibSp&891&int64\\%
+7&Parch&891&int64\\%
+8&Ticket&891&object\\%
+9&Fare&891&float64\\%
+10&Cabin&204&object\\%
+11&Embarked&889&object\\%
+\hline%
+\end{tabular}%
+\end{table}
+
+%
+\newpage%
+\subsection{Descriptive Statistics}%
+\label{subsec:DescriptiveStatistics}%
+The table 2 provides descriptive statistics for the dataset, including the count, mean, standard deviation, minimum, and maximum values.%
+
+
+\begin{table}[h!]%
+\caption{Dataset Descriptive Statistics}%
+\vspace{0.2cm}%
+\centering%
+\begin{tabular}{|c||c||c||c||c||c||c||c||c||c|}%
+\hline%
+Index&Column Name/Statistic&count&mean&std&min&25\%&50\%&75\%&max\\%
+\hline%
+0&PassengerId&891.0&446.0&257.35&1.0&223.5&446.0&668.5&891.0\\%
+1&Survived&891.0&0.38&0.49&0.0&0.0&0.0&1.0&1.0\\%
+2&Pclass&891.0&2.31&0.84&1.0&2.0&3.0&3.0&3.0\\%
+3&Age&714.0&29.7&14.53&0.42&20.12&28.0&38.0&80.0\\%
+4&SibSp&891.0&0.52&1.1&0.0&0.0&0.0&1.0&8.0\\%
+5&Parch&891.0&0.38&0.81&0.0&0.0&0.0&0.0&6.0\\%
+6&Fare&891.0&32.2&49.69&0.0&7.91&14.45&31.0&512.33\\%
+\hline%
+\end{tabular}%
+\end{table}
+
+%
+\newpage%
+\subsection{Distribution of features}%
+\label{subsec:Distributionoffeatures}%
+This section provides a visual representation of the distribution of features in the dataset using histograms (numerical features) and bar charts (categorical features). These visualizations can help in understanding the data.%
+\subsubsection{Histograms of Numerical columns}%
+\label{ssubsec:HistogramsofNumericalcolumns}%
+The histograms below show the distribution of numerical features in the dataset.%
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=460px]{EDA/histograms.png}%
+\caption{Histograms of Numerical columns}%
+\end{figure}
+
+%
+\newpage%
+\subsubsection{Bar Charts of Categorical columns}%
+\label{ssubsec:BarChartsofCategoricalcolumns}%
+The bar charts below show the distribution of categorical features in the dataset.%
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=460px]{EDA/bar_charts.png}%
+\caption{Bar Charts of Categorical columns}%
+\end{figure}
+
+%
+\newpage%
+\section{Evaluation Metrics}%
+\label{sec:EvaluationMetrics}%
+\subsection{Accuracy}%
+\label{subsec:Accuracy}%
+
+                \textbf{Accuracy} is one of the simplest evaluation metrics for classification models. 
+                It is defined as the ratio of correctly predicted observations to the total number of observations:
+
+                \[
+                \text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}}
+                \]
+
+                While accuracy is intuitive and easy to understand, it may not be suitable for imbalanced datasets. 
+                For example, in a dataset where 95\% of the samples belong to one class, predicting the majority class for every instance 
+                would result in high accuracy but poor performance on the minority class.
+                
+
+%
+\subsection{F1 Score}%
+\label{subsec:F1Score}%
+
+                The \textbf{F1 Score} is the harmonic mean of Precision and Recall, providing a balance between the two. 
+                It is particularly useful when dealing with imbalanced datasets. Precision and Recall are defined as follows:
+
+                \[
+                \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
+                \]
+                \[
+                \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
+                \]
+
+                The F1 Score combines these metrics:
+
+                \[
+                \text{F1 Score} = 2 \cdot \frac{\text{Precision} \cdot \text{Recall}}{\text{Precision} + \text{Recall}}
+                \]
+
+                A high F1 Score indicates a good balance between Precision and Recall, making it a valuable metric in scenarios where false positives 
+                and false negatives have significant costs.
+                
+
+%
+\subsection{ROC AUC}%
+\label{subsec:ROCAUC}%
+
+                The Receiver Operating Characteristic (ROC) curve plots the True Positive Rate (Recall) against the False Positive Rate at various threshold settings. 
+                The \textbf{Area Under the Curve (AUC) of the ROC curve} measures the overall ability of the model to distinguish between classes. 
+
+                \[
+                \text{AUC} = \int_{\text{FPR}=0}^{1} \text{TPR}(\text{FPR}) \, d(\text{FPR})
+                \]
+
+                Key points about ROC AUC:
+                \begin{itemize}
+                    \item An AUC of 0.5 indicates random guessing.
+                    \item An AUC of 1.0 indicates perfect classification.
+                    \item It is a threshold-independent metric, providing an aggregate measure of performance across all classification thresholds.
+                \end{itemize}
+
+                ROC AUC is particularly useful for binary classification tasks and provides insights into the trade-off between sensitivity and specificity.
+                
+
+%
+\newpage%
+\section{Model Optimization Results}%
+\label{sec:ModelOptimizationResults}%
+\subsection{Optimization Results Tables}%
+\label{subsec:OptimizationResultsTables}%
+The tables below show the hyperparameters and achieved metrics for each model configuration considered during the optimization process. The index of models with default hyperparameters is 0. The next models, indexed from 1, were chosen by Random Search.%
+
+
+\begin{table}[h!]%
+\caption{Random Forest Hyperparameters and achivied metrics}%
+\vspace{0.2cm}%
+\centering%
+\begin{tabular}{|c||c||c||c||c||c||c||c||c||c||c|}%
+\hline%
+Index&Metric/Hyperp.\textbackslash{} Iteration&0&1&2&3&4&5&6&7&8\\%
+\hline%
+0&f1&0.803&0.8256&0.8158&0.7647&0.7992&0.8215&0.7647&0.8343&0.7961\\%
+1&accuracy&0.8045&0.8294&0.8171&0.7767&0.807&0.8238&0.7767&0.8373&0.8047\\%
+2&roc\_auc&0.8292&0.872&0.8612&0.8322&0.8545&0.8652&0.8344&0.8697&0.8537\\%
+3&n\_estimators&100&50&50&50&200&100&200&200&200\\%
+4&criterion&gini&gini&log\_loss&log\_loss&gini&entropy&gini&log\_loss&gini\\%
+5&max\_depth&None&20&30&10&10&None&30&10&10\\%
+6&min\_samples\_split&2&2&2&10&10&2&10&10&2\\%
+7&min\_samples\_leaf&1&1&1&4&2&2&1&1&2\\%
+8&min\_weight\_fraction\_leaf&0.0&0.01&0.0&0.1&0.05&0.0&0.1&0.0&0.05\\%
+9&max\_features&sqrt&log2&None&None&sqrt&sqrt&None&log2&sqrt\\%
+10&bootstrap&1&1&1&0&1&0&0&1&0\\%
+\hline%
+\end{tabular}%
+\end{table}
+
+%
+
+
+\begin{table}[h!]%
+\caption{Decision Tree Hyperparameters and achivied metrics}%
+\vspace{0.2cm}%
+\centering%
+\begin{tabular}{|c||c||c||c||c||c||c||c||c||c|}%
+\hline%
+Index&Metric/Hyperp. \textbackslash{} Iteration&0&1&2&3&4&5&6&7\\%
+\hline%
+0&f1&0.8195&0.7849&0.7764&0.8059&0.7849&0.8006&0.781&0.3907\\%
+1&accuracy&0.8212&0.7868&0.7778&0.8103&0.7868&0.8013&0.78&0.4355\\%
+2&roc\_auc&0.7949&0.7435&0.8242&0.8434&0.7435&0.8128&0.8143&0.5081\\%
+3&criterion&gini&log\_loss&log\_loss&gini&gini&entropy&entropy&entropy\\%
+4&splitter&best&best&best&best&random&best&random&best\\%
+5&max\_depth&None&None&40&10&40&10&40&40\\%
+6&min\_samples\_split&2&10&2&10&5&5&5&5\\%
+7&min\_samples\_leaf&1&2&4&4&1&1&1&4\\%
+8&max\_features&None&None&sqrt&None&None&None&log2&log2\\%
+9&class\_weight&None&None&None&None&balanced&balanced&balanced&balanced\\%
+10&min\_impurity\_decrease&0.0&0.1&0.0&0.01&0.05&0.0&0.0&0.1\\%
+\hline%
+\end{tabular}%
+\end{table}
+
+%
+
+
+\begin{table}[h!]%
+\caption{XGBoost Hyperparameters and achivied metrics}%
+\vspace{0.2cm}%
+\centering%
+\begin{tabular}{|c||c||c||c||c||c||c||c||c||c|}%
+\hline%
+Index&Metric/Hyperp. \textbackslash{} Iteration&0&1&2&3&4&5&6&7\\%
+\hline%
+0&f1&0.7994&0.8273&0.7931&0.8319&0.8175&0.8025&0.8375&0.8335\\%
+1&accuracy&0.7989&0.8316&0.8036&0.8339&0.8215&0.8114&0.8395&0.8361\\%
+2&roc\_auc&0.809&0.8764&0.8506&0.8802&0.8665&0.8593&0.881&0.8787\\%
+3&eval\_metric&logloss&logloss&logloss&logloss&logloss&logloss&logloss&logloss\\%
+4&n\_estimators&100&50&50&100&50&200&200&100\\%
+5&max\_depth&6&10&6&15&10&6&15&6\\%
+6&learning\_rate&0.3&0.05&0.05&0.1&0.1&0.01&0.1&0.2\\%
+7&subsample&1.0&0.7&0.5&0.9&0.9&0.5&0.7&1.0\\%
+8&colsample\_bytree&1.0&0.7&0.7&0.7&0.5&0.7&0.9&0.9\\%
+9&min\_child\_weight&1&1&7&3&7&5&5&3\\%
+10&gamma&0.0&0.0&0.1&0.2&0.0&0.0&0.1&0.2\\%
+11&reg\_alpha&0.0&1.0&1.0&0.0&1.0&0.01&0.1&0.0\\%
+12&reg\_lambda&1.0&1.0&2.0&1.0&1.0&1.0&1.0&1.5\\%
+\hline%
+\end{tabular}%
+\end{table}
+
+%
+\newpage%
+\subsection{Boxplots of accuracy, f1, roc\_auc}%
+\label{subsec:Boxplotsofaccuracy,f1,rocauc}%
+Boxplots of accuracy, F1, and ROC AUC illustrate the distribution and variability of model performance metrics across different configurations of hyperparameters. The plots are located below.%
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=460px]{ModelOptimization/box_plots_metrics.png}%
+\caption{Boxplots of accuracy, f1, roc\_auc}%
+\end{figure}
+
+%
+\subsection{Barplots of maximum values of metrics achievied by model}%
+\label{subsec:Barplotsofmaximumvaluesofmetricsachieviedbymodel}%
+Barplots of maximum metric values show the highest performance scores for each model type. The plots are located below.%
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=460px]{ModelOptimization/barplots_max_metric.png}%
+\caption{Barplots of maximum values of metrics achievied by model}%
+\end{figure}
+
+%
+\newpage%
+\section{Interpretabilty of the best models}%
+\label{sec:Interpretabiltyofthebestmodels}%
+Classify2TeX package defined the best model as the one that achievied the highest value of a metric, chosen by the user, or ROC AUC by default.%
+In this case, the optimization process was aimed at maximizing%
+\textbf{ F1 Score.}%
+\\%
+Do not forget, that after preprocessing, columns names have changed, because of transformations of categorical features.%
+\subsection{SHAP {-} what is under the hood?}%
+\label{subsec:SHAP{-}whatisunderthehood?}%
+
+        \textbf{SHAP (SHapley Additive exPlanations) values} are a unified measure of feature importance, grounded in cooperative game theory, that explain the contribution of each feature to the predictions of a machine learning model. By assigning a consistent and fair contribution to each feature, SHAP values offer insights into the underlying decision-making process of the model, both for specific predictions and overall feature importance.
+        %
+
+        The fundamental principle behind SHAP is that a model’s prediction for a given instance can be decomposed into the sum of contributions from its features, along with a baseline value. The baseline typically represents the average model prediction across the dataset when no feature information is provided.
+        %
+
+        \subsection*{How SHAP Values work}
+        %
+
+        For a specific instance, SHAP calculates how much each feature contributes to the difference between the baseline and the model's prediction. This involves:
+        %
+
+        \begin{enumerate}
+            \item \textbf{Marginal Contributions}: Evaluating how the prediction changes when each feature is added to subsets of other features. For example, if you have features \( A, B, C \), SHAP will compute how the prediction changes when \( A \) is added to subsets like \( \{\}, \{ B \}, \{ C \}, \{ B, C \} \), etc.
+            \item \textbf{Weighted Averaging Across Subsets}: To compute the SHAP value for a feature, the method takes the average of its marginal contributions across all subsets of features, weighted by the size of the subsets. This ensures fairness in the distribution of contributions.
+            \item \textbf{Baseline Value}: The baseline is a reference point, usually the average model prediction over the dataset. It represents what the model predicts when no features are considered.
+        \end{enumerate}
+        %
+
+        For any given data point, SHAP values indicate how much each feature shifts the model’s prediction relative to the baseline. A positive SHAP value means the feature increases the prediction, while a negative SHAP value means it decreases the prediction. This decomposition allows for a granular understanding of both the direction and magnitude of each feature's influence on the model’s decision.
+
+%
+\newpage%
+\subsection{The best XGBoost model Explanation}%
+\label{subsec:ThebestXGBoostmodelExplanation}%
+\subsubsection{XGBoost model {-} feature importance using SHAP values}%
+\label{ssubsec:XGBoostmodel{-}featureimportanceusingSHAPvalues}%
+
+        \textbf{SHAP bar plot} provides a concise overview of the importance of individual features in the model's predictions. 
+        Each bar represents a feature, with its length corresponding to the mean absolute SHAP value across all samples. 
+        This indicates the average magnitude of the feature's contribution to the predictions, regardless of direction.
+        %
+
+        \hspace{20px}Features are ranked in descending order of importance, and only the top 15 features are displayed by default for clarity.
+        The bar plot allows quick identification of the most influential features driving the model's behavior and is particularly useful for comparing their relative contributions.\\
+        \newline                     
+        %
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=350px]{XAI/XGBoost/global_feature_importance_shap.png}%
+\caption{SHAP values for the best XGBoost model}%
+\end{figure}
+
+%
+\newpage%
+\subsubsection{XGBoost model {-} feature importance gained directly from the model}%
+\label{ssubsec:XGBoostmodel{-}featureimportancegaineddirectlyfromthemodel}%
+
+        \textbf{Feature importance bar chart:} visually represents the contributions of individual features to the model's predictions, 
+        based on their calculated importance scores. Each bar in the chart corresponds to a feature, and its length indicates the magnitude of 
+        that feature's importance in reducing split impurity during the model's training process. Features that contribute more significantly to 
+        the model's predictive accuracy are displayed with longer bars, while less influential features have shorter bars.
+        %
+
+        \hspace{20px}The chart is horizontally oriented, with feature names listed on the vertical axis and their corresponding importance values on the horizontal axis.
+        %
+
+        \hspace{20px}This visualization is especially useful for diagnosing the model's behavior, understanding which features drive its decisions, 
+        and identifying variables that have the most impact on predictions.\\
+        \newline
+        %
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=350px]{XAI/XGBoost/feature_importance.png}%
+\caption{Feature Importance for the best XGBoost model}%
+\end{figure}
+
+%
+\newpage%
+\subsubsection{XGBoost model {-} violin plot (SHAP) of impact on prediction}%
+\label{ssubsec:XGBoostmodel{-}violinplot(SHAP)ofimpactonprediction}%
+
+        \textbf{SHAP violin plot} provides a visual summary of how each feature influences model predictions and the variability of this influence. 
+        Features are listed on the vertical axis in descending order of importance, while the horizontal axis shows SHAP values, 
+        indicating the magnitude and direction of each feature's contribution to predictions.
+        %
+
+        \hspace{20px}The shape of each 'violin' represents the distribution of SHAP values for a feature: wider sections indicate higher density of similar values, 
+        while narrower sections show less frequent SHAP values. Positive SHAP values increase the prediction, and negative values decrease it.
+        %
+
+        \hspace{20px} Colors correspond to actual feature values, with red typically representing higher values and blue lower ones.
+        The color distribution along the SHAP scale highlights how feature values affect predictions; for instance, 
+        if red dominates the positive side, high feature values increase predictions.
+        %
+
+        \hspace{10px} By default, only the top 15 features by importance are displayed, keeping the visualization focused and interpretable.\\
+        %
+
+
+\begin{figure}[h!]%
+\centering%
+\includegraphics[width=400px]{XAI/XGBoost/violin_summary_plot_shap.png}%
+\caption{Violin plot (SHAP) of impact on prediction for the best default XGBoost model}%
+\end{figure}
+
+%
+\end{document}

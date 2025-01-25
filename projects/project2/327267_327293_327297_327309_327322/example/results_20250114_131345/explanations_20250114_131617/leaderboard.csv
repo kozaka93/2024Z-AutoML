@@ -1,0 +1,6 @@
+position,model_name,score,params
+1,GradientBoosting,0.7173369207748537,"{'learning_rate': 0.04156459145887941, 'max_depth': 8, 'max_features': 0.24450208798262502, 'min_samples_leaf': 15, 'min_samples_split': 12, 'n_estimators': 122}"
+2,RandomForestClassifier,0.6758427569853283,"{'max_features': 0.3156465989428795, 'max_samples': 0.7265153384229461, 'min_samples_leaf': 32, 'n_estimators': 215}"
+3,RidgeClassifier,0.6622070252871537,"{'alpha': 0.9195450794139408, 'class_weight': 'balanced', 'fit_intercept': True, 'max_iter': 800, 'solver': 'sparse_cg'}"
+4,LogisticRegression,0.6612561243110513,"{'model__solver': 'lbfgs', 'model__penalty': 'l2', 'model__max_iter': 800, 'model__l1_ratio': None, 'model__fit_intercept': True, 'model__class_weight': 'balanced', 'model__C': 0.01}"
+5,DecisionTreeClassifier,0.5931931045803163,"{'criterion': 'entropy', 'max_depth': 15, 'min_samples_leaf': 58, 'min_samples_split': 28}"

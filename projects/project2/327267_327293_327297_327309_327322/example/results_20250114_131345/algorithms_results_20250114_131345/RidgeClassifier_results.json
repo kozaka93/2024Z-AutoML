@@ -1,0 +1,1 @@
+{"score": 0.6622070252871537, "params": {"alpha": 0.9195450794139408, "class_weight": "balanced", "fit_intercept": true, "max_iter": 800, "solver": "sparse_cg"}}
